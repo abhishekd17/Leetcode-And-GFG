@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0205-isomorphic-strings](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0242-valid-anagram) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0920-uncommon-words-from-two-sentences) |
 ## Linked List
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0014-longest-common-prefix) |
 | [0179-largest-number](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0179-largest-number) |
+| [0205-isomorphic-strings](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0205-isomorphic-strings) |
 | [0241-different-ways-to-add-parentheses](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0242-valid-anagram) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0920-uncommon-words-from-two-sentences) |
