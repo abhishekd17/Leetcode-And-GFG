@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0214-shortest-palindrome](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0242-valid-anagram) |
+| [0516-longest-palindromic-subsequence](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0516-longest-palindromic-subsequence) |
 | [0812-rotate-string](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1250-longest-common-subsequence](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1250-longest-common-subsequence) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0241-different-ways-to-add-parentheses) |
+| [0516-longest-palindromic-subsequence](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0516-longest-palindromic-subsequence) |
 | [1250-longest-common-subsequence](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1250-longest-common-subsequence) |
 | [2755-extra-characters-in-a-string](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2755-extra-characters-in-a-string) |
 ## Memoization
