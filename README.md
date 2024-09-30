@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0242-valid-anagram) |
 | [0812-rotate-string](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1250-longest-common-subsequence](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1250-longest-common-subsequence) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0241-different-ways-to-add-parentheses) |
+| [1250-longest-common-subsequence](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1250-longest-common-subsequence) |
 | [2755-extra-characters-in-a-string](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2755-extra-characters-in-a-string) |
 ## Memoization
 |  |
