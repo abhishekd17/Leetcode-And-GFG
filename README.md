@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0386-lexicographical-numbers) |
+| [0744-network-delay-time](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0744-network-delay-time) |
 ## Enumeration
 |  |
 | ------- |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0127-word-ladder) |
+| [0744-network-delay-time](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0744-network-delay-time) |
 ## Design
 |  |
 | ------- |
@@ -244,4 +246,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0432-all-oone-data-structure](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0432-all-oone-data-structure) |
+## Graph
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0744-network-delay-time) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0744-network-delay-time) |
+## Shortest Path
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0744-network-delay-time) |
 <!---LeetCode Topics End-->
