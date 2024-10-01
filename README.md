@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0731-my-calendar-ii) |
 | [0859-design-circular-deque](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0859-design-circular-deque) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1497-design-a-stack-with-increment-operation) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0242-valid-anagram) |
 | [0432-all-oone-data-structure](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0432-all-oone-data-structure) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [2755-extra-characters-in-a-string](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Linked List
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0920-uncommon-words-from-two-sentences](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2494-sum-of-prefix-scores-of-strings) |
 ## Binary Search
 |  |
