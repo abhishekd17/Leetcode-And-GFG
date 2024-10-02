@@ -1,6 +1,29 @@
 class Solution {
     public int maxProfit(int[] prices) {
         int n = prices.length;
+        int prev1[] = new int[2];
+        int prev2[] = new int[2];
+        for(int i = n-1 ; i >= 0 ; i-- ){
+            int curr[] = new int[2];
+            for(int j = 0 ; j <= 1 ; j++){
+                if(j==0){
+                    curr[j] = Math.max( -prices[i] + prev1[1]  , prev1[0]); 
+                }else if(j == 1 && i < n + 1 ){
+                    curr[j] = Math.max(prices[i] + prev2[0] , prev1[1]);
+                }
+            }
+            prev2 = prev1;
+            prev1 = curr;
+        }
+
+        return prev1[0];
+    }
+}
+
+
+/*class Solution {
+    public int maxProfit(int[] prices) {
+        int n = prices.length;
         int dp[][] = new int[n + 2][2];
 
         for(int i = n-1 ; i >= 0 ; i-- ){
@@ -15,7 +38,7 @@ class Solution {
 
         return dp[0][0];
     }
-}
+}*/
 
 /*class Solution {
     public int maxProfit(int[] prices) {
