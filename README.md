@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0493-reverse-pairs](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0540-single-element-in-a-sorted-array) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0729-my-calendar-i](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0731-my-calendar-ii) |
 | [0794-swim-in-rising-water](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0794-swim-in-rising-water) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0179-largest-number](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0179-largest-number) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 ## Sorting
 |  |
 | ------- |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0516-longest-palindromic-subsequence](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0583-delete-operation-for-two-strings) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1170-shortest-common-supersequence](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
