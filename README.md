@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0794-swim-in-rising-water) |
 | [0833-bus-routes](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0833-bus-routes) |
 | [0859-design-circular-deque](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0859-design-circular-deque) |
+| [0875-longest-mountain-in-array](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0875-longest-mountain-in-array) |
 | [1129-longest-string-chain](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1129-longest-string-chain) |
 | [1256-rank-transform-of-an-array](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1256-rank-transform-of-an-array) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0583-delete-operation-for-two-strings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0875-longest-mountain-in-array](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0875-longest-mountain-in-array) |
 | [1129-longest-string-chain](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1250-longest-common-subsequence) |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0151-reverse-words-in-a-string) |
+| [0875-longest-mountain-in-array](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0875-longest-mountain-in-array) |
 | [1129-longest-string-chain](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1129-longest-string-chain) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## String Matching
@@ -233,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0204-count-primes) |
+| [0875-longest-mountain-in-array](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0875-longest-mountain-in-array) |
 ## Number Theory
 |  |
 | ------- |
