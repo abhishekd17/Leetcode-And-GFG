@@ -10,6 +10,36 @@ class Solution {
             arr[i + 1] = cuts[i];
         }
         int dp[][] = new int[nn][nn];
+
+        for(int i = cuts.length ; i >= 1 ; i--){
+            for(int j = 1 ; j <= cuts.length ; j++){
+                if(i > j) continue;
+                int mini =Integer.MAX_VALUE;
+                for(int k = i ; k <= j ; k++){
+                    int cost = arr[j + 1] - arr[i - 1] + dp[i][k - 1] + dp[k + 1][j];
+                    mini = Math.min(cost , mini);
+                }
+                dp[i][j] = mini;
+            }
+        }
+        return dp[1][cuts.length];
+    }
+}
+
+
+
+/*class Solution {
+    public int minCost(int n, int[] cuts) {
+        Arrays.sort(cuts);
+        int arr[] = new int[cuts.length + 2];
+        int nn = arr.length;
+        arr[0] = 0;
+        arr[nn - 1] = n;
+
+        for(int i = 0 ; i < cuts.length ; i++){
+            arr[i + 1] = cuts[i];
+        }
+        int dp[][] = new int[nn][nn];
         for(int[] a : dp) Arrays.fill(a , -1);
         return helper(arr , 1 , cuts.length , dp);
     }
@@ -24,4 +54,4 @@ class Solution {
         }
         return dp[l][r];
     }
-}
+} */
