@@ -12,22 +12,20 @@ class Solution {
                     set.add(stack.pop());
                 }
                 stack.pop();
-                if(stack.peek() == '|'){
-                    // stack.pop();
+                char op = stack.pop();
+                if(op == '|'){
                     if(set.contains('t')){
                         stack.push('t');
                     }else{
                         stack.push('f');
                     }
-                }else if(stack.peek() == '&' && !stack.isEmpty()){
-                    // stack.pop();
+                }else if(op == '&'){
                     if(set.contains('f')){
                         stack.push('f');
                     }else{
                         stack.push('t');
                     }
-                }else if(stack.peek() == '!' && !stack.isEmpty()){
-                    // stack.pop();
+                }else if(op == '!' ){
                     if(set.contains('t')){
                         stack.push('f');
                     }else{
