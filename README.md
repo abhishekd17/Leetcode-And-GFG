@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-longest-mountain-in-array](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0875-longest-mountain-in-array) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1111-minimum-score-triangulation-of-polygon) |
+| [1121-partition-array-for-maximum-sum](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1121-partition-array-for-maximum-sum) |
 | [1129-longest-string-chain](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1129-longest-string-chain) |
 | [1256-rank-transform-of-an-array](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1256-rank-transform-of-an-array) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0875-longest-mountain-in-array](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0875-longest-mountain-in-array) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1111-minimum-score-triangulation-of-polygon) |
+| [1121-partition-array-for-maximum-sum](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1121-partition-array-for-maximum-sum) |
 | [1129-longest-string-chain](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1250-longest-common-subsequence) |
