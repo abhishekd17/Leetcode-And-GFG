@@ -14,17 +14,9 @@ class Solution {
                 stack.pop();
                 char op = stack.pop();
                 if(op == '|'){
-                    if(set.contains('t')){
-                        stack.push('t');
-                    }else{
-                        stack.push('f');
-                    }
+                    stack.push(set.contains('t') ? 't' : 'f');
                 }else if(op == '&'){
-                    if(set.contains('f')){
-                        stack.push('f');
-                    }else{
-                        stack.push('t');
-                    }
+                    stack.push(set.contains('f') ? 'f' : 't');
                 }else if(op == '!' ){
                     if(set.contains('t')){
                         stack.push('f');
