@@ -9,7 +9,7 @@ class Solution {
                 else ans++;
             }
         }
-        return (int)Math.ceil(ans / 2.0);
+        return (ans + 1) / 2;
 
     }
 }
