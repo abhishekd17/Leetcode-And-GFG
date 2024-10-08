@@ -1,5 +1,21 @@
 class Solution {
     public int minSwaps(String s) {
+        int ans = 0;
+        Stack<Character> st = new Stack<>();
+        for(char c : s.toCharArray()){
+            if(c == '[') st.push(c);
+            else{
+                if(!st.isEmpty()) st.pop();
+                else ans++;
+            }
+        }
+        return (int)Math.ceil(ans / 2.0);
+
+    }
+}
+
+/*class Solution {
+    public int minSwaps(String s) {
      int n = s.length();
      int ans = 0;
      int closing = 0;
@@ -18,4 +34,4 @@ class Solution {
      }   
      return ans;
     }
-}
+} */
