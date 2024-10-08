@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0001-two-sum) |
 | [0084-largest-rectangle-in-histogram](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0085-maximal-rectangle) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0044-wildcard-matching](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0072-edit-distance) |
+| [0085-maximal-rectangle](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0085-maximal-rectangle) |
 | [0115-distinct-subsequences](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0115-distinct-subsequences) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0085-maximal-rectangle) |
 | [1197-parsing-a-boolean-expression](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1197-parsing-a-boolean-expression) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -282,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0085-maximal-rectangle) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -367,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0085-maximal-rectangle) |
 | [0794-swim-in-rising-water](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0794-swim-in-rising-water) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2914-find-the-safest-path-in-a-grid) |
 <!---LeetCode Topics End-->
