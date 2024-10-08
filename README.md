@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1121-partition-array-for-maximum-sum](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1121-partition-array-for-maximum-sum) |
 | [1129-longest-string-chain](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1129-longest-string-chain) |
 | [1256-rank-transform-of-an-array](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1256-rank-transform-of-an-array) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1628-count-submatrices-with-all-ones](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1628-count-submatrices-with-all-ones) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1129-longest-string-chain](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1250-longest-common-subsequence) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1628-count-submatrices-with-all-ones](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1628-count-submatrices-with-all-ones) |
@@ -380,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0085-maximal-rectangle) |
 | [0221-maximal-square](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0221-maximal-square) |
 | [0794-swim-in-rising-water](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0794-swim-in-rising-water) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1628-count-submatrices-with-all-ones) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2914-find-the-safest-path-in-a-grid) |
 <!---LeetCode Topics End-->
