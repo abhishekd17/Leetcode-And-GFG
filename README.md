@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1694-make-sum-divisible-by-p](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1694-make-sum-divisible-by-p) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1923-sentence-similarity-iii](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1923-sentence-similarity-iii) |
+| [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2755-extra-characters-in-a-string](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2755-extra-characters-in-a-string) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1256-rank-transform-of-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1694-make-sum-divisible-by-p) |
+| [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2755-extra-characters-in-a-string](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -377,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0744-network-delay-time](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0744-network-delay-time) |
 | [0794-swim-in-rising-water](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0794-swim-in-rising-water) |
+| [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2678-design-graph-with-shortest-path-calculator](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2678-design-graph-with-shortest-path-calculator) |
 ## Shortest Path
 |  |
