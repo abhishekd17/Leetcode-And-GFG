@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0127-word-ladder](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0127-word-ladder) |
+| [0202-happy-number](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0242-valid-anagram) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0002-add-two-numbers) |
 | [0067-add-binary](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0067-add-binary) |
+| [0202-happy-number](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0204-count-primes) |
 | [0241-different-ways-to-add-parentheses](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0241-different-ways-to-add-parentheses) |
 | [0368-largest-divisible-subset](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0368-largest-divisible-subset) |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0151-reverse-words-in-a-string) |
+| [0202-happy-number](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0202-happy-number) |
 | [0567-permutation-in-string](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0567-permutation-in-string) |
 | [0875-longest-mountain-in-array](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0875-longest-mountain-in-array) |
 | [1129-longest-string-chain](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1129-longest-string-chain) |
