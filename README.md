@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0044-wildcard-matching) |
 | [0241-different-ways-to-add-parentheses](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0241-different-ways-to-add-parentheses) |
 | [1197-parsing-a-boolean-expression](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1197-parsing-a-boolean-expression) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 ## String
 |  |
 | ------- |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1197-parsing-a-boolean-expression](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1197-parsing-a-boolean-expression) |
 | [1250-longest-common-subsequence](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1871-palindrome-partitioning-iv](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1871-palindrome-partitioning-iv) |
 | [1923-sentence-similarity-iii](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -373,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0067-add-binary) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Tree
 |  |
