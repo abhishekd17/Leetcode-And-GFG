@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1256-rank-transform-of-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1694-make-sum-divisible-by-p) |
+| [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2755-extra-characters-in-a-string](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2755-extra-characters-in-a-string) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-longest-common-subsequence](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1871-palindrome-partitioning-iv](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1871-palindrome-partitioning-iv) |
 | [1923-sentence-similarity-iii](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -438,5 +440,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 <!---LeetCode Topics End-->
