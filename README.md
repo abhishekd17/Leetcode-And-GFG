@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2755-extra-characters-in-a-string](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2755-extra-characters-in-a-string) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2914-find-the-safest-path-in-a-grid) |
+| [3291-find-if-array-can-be-sorted](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3291-find-if-array-can-be-sorted) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3593-find-the-maximum-factor-score-of-array](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3593-find-the-maximum-factor-score-of-array) |
 ## Hash Table
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2554-minimum-total-distance-traveled](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2554-minimum-total-distance-traveled) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [3291-find-if-array-can-be-sorted](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3291-find-if-array-can-be-sorted) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -406,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0067-add-binary) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [3291-find-if-array-can-be-sorted](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3291-find-if-array-can-be-sorted) |
 ## Simulation
 |  |
 | ------- |
