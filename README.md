@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2914-find-the-safest-path-in-a-grid](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3291-find-if-array-can-be-sorted](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3291-find-if-array-can-be-sorted) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3593-find-the-maximum-factor-score-of-array](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3593-find-the-maximum-factor-score-of-array) |
 ## Hash Table
 |  |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0567-permutation-in-string](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 ## Counting
 |  |
 | ------- |
@@ -415,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1940-maximum-xor-for-each-query](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1940-maximum-xor-for-each-query) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [3291-find-if-array-can-be-sorted](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3291-find-if-array-can-be-sorted) |
+| [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3394-minimum-array-end](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3394-minimum-array-end) |
 ## Simulation
 |  |
