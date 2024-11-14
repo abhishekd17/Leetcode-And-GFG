@@ -3,7 +3,7 @@ class Solution {
         int n = nums.length;
         Arrays.sort(nums);
         int l = 1;
-        int r = nums[n- 1 ] - nums[0];
+        int r = (nums[n- 1 ] - nums[0]) / (m - 1);
 
         int ans = 0;
         while(l <= r){
