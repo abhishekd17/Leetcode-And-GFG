@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1628-count-submatrices-with-all-ones](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1628-count-submatrices-with-all-ones) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1675-magnetic-force-between-two-balls](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1675-magnetic-force-between-two-balls) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1694-make-sum-divisible-by-p](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1694-make-sum-divisible-by-p) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1923-sentence-similarity-iii](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1923-sentence-similarity-iii) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0794-swim-in-rising-water) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1675-magnetic-force-between-two-balls](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1675-magnetic-force-between-two-balls) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
@@ -332,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0567-permutation-in-string) |
 | [0875-longest-mountain-in-array](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0875-longest-mountain-in-array) |
 | [1129-longest-string-chain](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1129-longest-string-chain) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1923-sentence-similarity-iii](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -386,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1197-parsing-a-boolean-expression](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1197-parsing-a-boolean-expression) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1628-count-submatrices-with-all-ones](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1628-count-submatrices-with-all-ones) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Monotonic Stack
@@ -395,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0085-maximal-rectangle) |
 | [1002-maximum-width-ramp](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1002-maximum-width-ramp) |
 | [1628-count-submatrices-with-all-ones](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1628-count-submatrices-with-all-ones) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Breadth-First Search
 |  |
 | ------- |
