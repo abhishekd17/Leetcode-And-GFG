@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0859-design-circular-deque](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0859-design-circular-deque) |
 | [0875-longest-mountain-in-array](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0875-longest-mountain-in-array) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1002-maximum-width-ramp](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1002-maximum-width-ramp) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1121-partition-array-for-maximum-sum](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1121-partition-array-for-maximum-sum) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0209-minimum-size-subarray-sum) |
 | [0567-permutation-in-string](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Counting
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0732-my-calendar-iii](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0732-my-calendar-iii) |
 | [0794-swim-in-rising-water](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0794-swim-in-rising-water) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1675-magnetic-force-between-two-balls](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1675-magnetic-force-between-two-balls) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
@@ -439,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0209-minimum-size-subarray-sum) |
 | [0731-my-calendar-ii](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0732-my-calendar-iii) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1694-make-sum-divisible-by-p) |
 | [1940-maximum-xor-for-each-query](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1940-maximum-xor-for-each-query) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -446,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0859-design-circular-deque](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0859-design-circular-deque) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -504,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0744-network-delay-time](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0744-network-delay-time) |
 | [0794-swim-in-rising-water](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0794-swim-in-rising-water) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -541,4 +547,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0113-path-sum-ii) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 <!---LeetCode Topics End-->
