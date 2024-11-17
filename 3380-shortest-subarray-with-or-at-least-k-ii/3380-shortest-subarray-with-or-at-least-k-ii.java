@@ -1,71 +1,34 @@
 class Solution {
-    private void update(int[] bits, int x, int change) {
-        // insert or remove element from window, time: O(32)
-        for (int i = 0; i < 32; i++) {
-            if (((x >> i) & 1) != 0) {
-                bits[i] += change;
-            }
-        }
-    }
-
-    private int bitsToNum(int[] bits) {
-        // convert 32-size bits array to integer, time: O(32)
-        int result = 0;
-        for (int i = 0; i < 32; i++) {
-            if (bits[i] != 0) {
-                result |= 1 << i;
-            }
-        }
-        return result;
-    }
-
-    private boolean isSpecial(int[] nums, int k, int len) {
-        // checks if special subarray exists for length len, time: O(n)
-        int n = nums.length;
-        int[] bits = new int[32];
-        for (int i = 0; i < n; i++) {
-            update(bits, nums[i], 1); // insert nums[i] into window
-            if (i >= len) {
-                update(bits, nums[i - len], -1); // remove nums[i - len] from window
-            }
-            if (i >= len - 1 && bitsToNum(bits) >= k) {
-                // special subarray found
-                return true;
-            }
-        }
-        return false;
-    }
-
     public int minimumSubarrayLength(int[] nums, int k) {
-        int n = nums.length, start = 1, end = n + 1, mid;
-        while (start < end) {
-            mid = (start + end) / 2;
-            if (!isSpecial(nums, k, mid)) {
-                start = mid + 1;
-            } else {
-                end = mid;
+        int n = nums.length;
+        int arr[] = new int[32];
+        int ans =Integer.MAX_VALUE;
+        int i = 0  , j = 0;
+        while(j < n ){
+            update(nums[j] , arr , 1);
+            while(i <= j && getBinaryToDecimal(arr) >= k){
+                ans = Math.min(ans , j - i + 1);
+                update(nums[i] , arr , -1);
+                i++;
+            }
+            j++;
+        }
+        return ans == Integer.MAX_VALUE ? -1 : ans;
+    }
+    private void update(int number , int arr[] , int val){
+        for(int i = 0 ;i < 32 ;i++){
+            if(((number >> i) & 1 ) == 1 ){
+                arr[i] += val;
             }
         }
-        return start != n + 1 ? start : -1;
+    }
+    private int getBinaryToDecimal(int arr[]){
+        int num = 0;
+        for(int i = 0 ; i < 32 ; i++){
+            if(arr[i] > 0){
+                num |= (1 << i);
+            }
+        }
+        return num;
     }
 }
-
-/*class Solution {
-    public int minimumSubarrayLength(int[] nums, int k) {
-        int n = nums.length;
-        int ans = n + 1;
-        boolean flag = false;
-        for(int i =  0 ; i < n  ; i++){
-            int orr = nums[i];
-            for(int  j  = i ; j < n ; j++){
-                orr |= nums[j];
-                if(orr >= k){
-                    ans = Math.min(ans , j - i + 1);
-                    flag = true;
-                }
-            }
-        }
-
-        return flag == true ? ans : -1;
-    }
-} */
