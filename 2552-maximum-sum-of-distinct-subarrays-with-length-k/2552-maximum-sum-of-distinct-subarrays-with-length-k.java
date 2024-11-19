@@ -8,7 +8,7 @@ class Solution {
         while (j < n) {
             map.put(nums[j], map.getOrDefault(nums[j], 0) + 1);
             sum += nums[j];
-            if (j + 1 > k) {
+            if (j + 1 - i > k) {
                 int x = nums[i];
                 sum -= x;
                 map.put(x, map.get(x) - 1);
