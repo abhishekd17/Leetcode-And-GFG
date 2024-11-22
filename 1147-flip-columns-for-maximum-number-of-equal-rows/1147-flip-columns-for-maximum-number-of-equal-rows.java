@@ -15,10 +15,10 @@ class Solution {
             }
             map.put(s , map.getOrDefault(s , 0) + 1);
         }
-        int ans = 0;
-        for(String s: map.keySet()){
-            ans = Math.max(ans , map.get(s));
-        }
-        return ans;
+        // int ans = 0;
+        // for(String s: map.keySet()){
+        //     ans = Math.max(ans , map.get(s));
+        // }
+        return Collections.max(map.values());
     }
 }
