@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2179-most-beautiful-item-for-each-query](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
@@ -448,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-sliding-puzzle](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0787-sliding-puzzle) |
 | [0794-swim-in-rising-water](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0794-swim-in-rising-water) |
 | [0833-bus-routes](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0833-bus-routes) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -536,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-network-delay-time](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0744-network-delay-time) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2678-design-graph-with-shortest-path-calculator](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2678-design-graph-with-shortest-path-calculator) |
 | [3189-find-champion-ii](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3189-find-champion-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
@@ -548,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2678-design-graph-with-shortest-path-calculator](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2678-design-graph-with-shortest-path-calculator) |
@@ -557,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-network-delay-time](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0744-network-delay-time) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2678-design-graph-with-shortest-path-calculator](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2678-design-graph-with-shortest-path-calculator) |
 ## Topological Sort
 |  |
@@ -580,6 +585,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1972-rotating-the-box](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2089-maximum-matrix-sum) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2914-find-the-safest-path-in-a-grid) |
 ## Backtracking
