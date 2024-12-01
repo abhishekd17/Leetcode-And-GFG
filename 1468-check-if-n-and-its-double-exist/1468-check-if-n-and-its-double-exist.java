@@ -1,9 +1,9 @@
 class Solution {
     public boolean checkIfExist(int[] arr) {
-        for(int i = 0 ; i < arr.length ; i++){
-            for(int j = i + 1 ; j < arr.length ; j++){
-                if(arr[i] == 2 * arr[j] || arr[i] * 2 == arr[j]) return true;
-            }
+        HashSet<Integer> set = new HashSet<>();
+        for(int i : arr){
+            if(set.contains(2 * i) || i % 2 == 0 && set.contains(i / 2)) return true;
+            set.add(i); 
         }
         return false;
     }
