@@ -2,6 +2,37 @@ class Solution {
     public long continuousSubarrays(int[] nums) {
         int n = nums.length;
         long ans = 0;
+        PriorityQueue<int[]> minHeap = new PriorityQueue<>((a,b) -> Integer.compare(a[0] , b[0]));
+        PriorityQueue<int[]> maxHeap = new PriorityQueue<>((a,b) -> Integer.compare(b[0] , a[0]));
+        int i = 0;
+        int j = 0;
+        while(j < n ){
+            minHeap.add(new int[]{nums[j] , j});
+            maxHeap.add(new int[]{nums[j] , j});
+            while (Math.abs(maxHeap.peek()[0] - minHeap.peek()[0]) > 2) {
+                i++;
+
+                while (!maxHeap.isEmpty() && maxHeap.peek()[1] < i) {
+                    maxHeap.poll();
+                }
+
+                while (!minHeap.isEmpty() && minHeap.peek()[1] < i) {
+                    minHeap.poll();
+                }
+            }
+
+            ans += j - i + 1;
+            j++;
+        }
+        return ans;
+    }
+}
+
+
+/*class Solution {
+    public long continuousSubarrays(int[] nums) {
+        int n = nums.length;
+        long ans = 0;
         int i = 0;
         int j = 0;
         TreeMap<Integer , Integer> map = new TreeMap<>();
@@ -19,7 +50,7 @@ class Solution {
         }
         return ans;
     }
-}
+}*/
 
 /*class Solution {
     public long continuousSubarrays(int[] nums) {
