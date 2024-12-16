@@ -1,4 +1,4 @@
-class Solution {
+/*class Solution {
     public long continuousSubarrays(int[] nums) {
         int n = nums.length;
         long ans = 0;
@@ -26,7 +26,49 @@ class Solution {
         }
         return ans;
     }
+}*/
+
+class Solution {
+    public long continuousSubarrays(int[] nums) {
+        int n = nums.length;
+        long ans = 0;
+
+        Deque<Integer> maxDeque = new ArrayDeque<>(); // Stores indices of max values
+        Deque<Integer> minDeque = new ArrayDeque<>(); // Stores indices of min values
+
+        int i = 0;
+        for (int j = 0; j < n; j++) {
+            // Maintain the max deque
+            while (!maxDeque.isEmpty() && nums[maxDeque.peekLast()] <= nums[j]) {
+                maxDeque.pollLast();
+            }
+            maxDeque.addLast(j);
+
+            // Maintain the min deque
+            while (!minDeque.isEmpty() && nums[minDeque.peekLast()] >= nums[j]) {
+                minDeque.pollLast();
+            }
+            minDeque.addLast(j);
+
+            // Shrink the window if condition is violated
+            while (Math.abs(nums[maxDeque.peekFirst()] - nums[minDeque.peekFirst()]) > 2) {
+                i++;
+                if (maxDeque.peekFirst() < i) {
+                    maxDeque.pollFirst();
+                }
+                if (minDeque.peekFirst() < i) {
+                    minDeque.pollFirst();
+                }
+            }
+
+            // Add the number of valid subarrays ending at `j`
+            ans += j - i + 1;
+        }
+
+        return ans;
+    }
 }
+
 
 
 /*class Solution {
