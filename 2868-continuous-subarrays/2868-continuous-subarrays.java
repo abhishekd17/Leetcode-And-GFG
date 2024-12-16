@@ -1,33 +1,48 @@
 class Solution {
     public long continuousSubarrays(int[] nums) {
-        Deque<Integer> maxQ = new ArrayDeque<>();
-        Deque<Integer> minQ = new ArrayDeque<>();
-        int left = 0;
-        long res = 0;
-
-        for (int right = 0; right < nums.length; right++) {
-            while (!maxQ.isEmpty() && nums[maxQ.peekLast()] < nums[right]) {
-                maxQ.pollLast();
-            }
-            maxQ.offerLast(right);
-
-            while (!minQ.isEmpty() && nums[minQ.peekLast()] > nums[right]) {
-                minQ.pollLast();
-            }
-            minQ.offerLast(right);
-
-            while (!maxQ.isEmpty() && !minQ.isEmpty() && nums[maxQ.peekFirst()] - nums[minQ.peekFirst()] > 2) {
-                if (maxQ.peekFirst() < minQ.peekFirst()) {
-                    left = maxQ.peekFirst() + 1;
-                    maxQ.pollFirst();
-                } else {
-                    left = minQ.peekFirst() + 1;
-                    minQ.pollFirst();
+        int n = nums.length;
+        long ans = 0;
+        int i = 0;
+        int j = 0;
+        TreeMap<Integer , Integer> map = new TreeMap<>();
+        while(j < n ){
+            map.put(nums[j] , map.getOrDefault(nums[j] , 0 ) + 1);
+            while(Math.abs(map.lastKey() - map.firstKey()) > 2) {
+                map.put(nums[i] , map.get(nums[i]) - 1);
+                if(map.get(nums[i]) == 0){
+                    map.remove(nums[i]);
                 }
+                i++;
             }
-
-            res += right - left + 1;
+            ans += j - i + 1;
+            j++;
         }
-        return res;
+        return ans;
     }
 }
+
+/*class Solution {
+    public long continuousSubarrays(int[] nums) {
+        int n = nums.length;
+        long ans = n;
+        
+        for (int i = 0; i < n; i++) {
+            for (int j = i; j < n - 1; j++) {
+                boolean isValid = true;
+                for (int k = i; k <= j; k++) {
+                    if (Math.abs(nums[k] - nums[j + 1]) > 2) {
+                        isValid = false;
+                        break;
+                    }
+                }
+                if (isValid) {
+                    ans++;
+                } else {
+                    break;
+                }
+            }
+        }
+        return ans;
+    }
+}
+ */
