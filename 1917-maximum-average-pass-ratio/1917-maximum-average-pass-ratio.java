@@ -1,54 +1,63 @@
 class Solution {
     public double maxAverageRatio(int[][] classes, int extraStudents) {
-        PriorityQueue<ClassRecord> pq = new PriorityQueue<>(new Compare());
-        
-        for(int[] cl : classes)
-            pq.add(new ClassRecord(cl));
-        
-        ClassRecord cl;
-        while(extraStudents-- > 0)
-            pq.add(pq.remove().addOneStudent());
-        
-        double sum = 0;
-        while(!pq.isEmpty()){
-            cl = pq.remove();
-            sum += (double)cl.pass / cl.total;
+        int n = classes.length;
+        PriorityQueue<double[]> pq = new PriorityQueue<>((a,b) -> Double.compare(b[0],a[0]));
+        for(int i = 0 ; i  < n ; i++){
+            pq.offer(new double[]{(-(1.0* classes[i][0] / classes[i][1])+ (1.0 * (classes[i][0] + 1 ) / (classes[i][1] + 1))), (int)i});
+        }
+        while(extraStudents-- > 0){
+            double top[] = pq.poll();
+            // double delta = top[0];
+            // System.out.println(delta);
+            int idx = (int) top[1];
+            classes[idx][0]++;
+            classes[idx][1]++;
+            pq.offer(new double[]{(-(1.0* classes[idx][0] / classes[idx][1]) +  (1.0 * (classes[idx][0] + 1 ) / (classes[idx][1] + 1))), (int)idx});
         }
 
-        return sum / classes.length;
+        double result = 0.0;
+        for(int i =  0 ; i < n ; i++){
+            result += (1.0 * classes[i][0] / classes[i][1]);
+        }
+        return result / n;
     }
 }
 
-class ClassRecord{
-    int pass;
-    int total;
-    double inc;
+/*class Solution {
+    public double maxAverageRatio(int[][] classes, int extraStudents) {
+        int n = classes.length;
 
-    public ClassRecord(int[] array){
-        pass = array[0];
-        total = array[1];
-        inc = getIncrement();
-    }
+        double pr[] = new double[n];
 
-    public ClassRecord addOneStudent(){
-        pass++;
-        total++;
-        inc = getIncrement();
-        return this;
-    }
+        for(int i = 0 ; i < n ; i++){
+            pr[i] = (double)classes[i][0] / classes[i][1];
+        }
 
-    private double getIncrement(){
-        return (pass + 1.0) / (total + 1) - (double)pass / total;
-    }
-}
+        while(extraStudents-- > 0){
+            double upPr[] = new double[n];
 
-class Compare implements Comparator<ClassRecord>{
-    public int compare(ClassRecord a, ClassRecord b){
-        if(a.inc < b.inc)
-            return 1;
-        else if(a.inc > b.inc)
-            return -1;
-        else
-            return 0;
+            for(int i = 0 ; i < n ; i++){
+                upPr[i] = (double) (classes[i][0] + 1)/ (classes[i][1]+1);
+            }
+
+            int bestClassIdx = 0;
+            double bestDelta = 0.0;
+            for(int i = 0 ; i < n ; i++){
+                double delta = upPr[i] - pr[i];
+                if(delta > bestDelta){
+                    bestDelta = delta;
+                    bestClassIdx = i;
+                }
+            }
+            pr[bestClassIdx] = upPr[bestClassIdx];
+            classes[bestClassIdx][0]++;
+            classes[bestClassIdx][1]++;
+        }
+
+        double ans = 0.0;
+        for(int i = 0 ; i <  n ; i++){
+            ans += pr[i];
+        }
+        return ans / n;
     }
-}
+} */
