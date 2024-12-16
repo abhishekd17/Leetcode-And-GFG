@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2716-prime-subtraction-operation](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2716-prime-subtraction-operation) |
 | [2755-extra-characters-in-a-string](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2755-extra-characters-in-a-string) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [2868-continuous-subarrays](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2868-continuous-subarrays) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3291-find-if-array-can-be-sorted](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3291-find-if-array-can-be-sorted) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1755-defuse-the-bomb](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1755-defuse-the-bomb) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+| [2868-continuous-subarrays](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2868-continuous-subarrays) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0732-my-calendar-iii) |
+| [2868-continuous-subarrays](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2868-continuous-subarrays) |
 ## Greedy
 |  |
 | ------- |
@@ -525,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0859-design-circular-deque](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0859-design-circular-deque) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [2868-continuous-subarrays](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2868-continuous-subarrays) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -607,6 +611,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2692-take-gifts-from-the-richest-pile](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+| [2868-continuous-subarrays](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2868-continuous-subarrays) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Shortest Path
 |  |
@@ -653,4 +658,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [2868-continuous-subarrays](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2868-continuous-subarrays) |
 <!---LeetCode Topics End-->
