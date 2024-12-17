@@ -1,5 +1,40 @@
 class Solution {
     public String repeatLimitedString(String s, int repeatLimit) {
+        PriorityQueue<Character> pq = new PriorityQueue<>((x,y) -> (y - x));
+        int freq[] = new int[26];
+        for(char c : s.toCharArray()){
+            freq[c - 'a']++;
+        }
+
+        for(int i = 0; i < 26 ; i++){
+            if(freq[i] > 0){
+                char ch = (char)(i + 'a');
+                pq.offer(ch);
+            }
+        }
+        StringBuilder sb = new StringBuilder();
+        while(!pq.isEmpty()){
+            char ch = pq.poll();
+            int f = Math.min(freq[ch - 'a'] , repeatLimit);
+            sb.append(String.valueOf(ch).repeat(f));
+            freq[ch - 'a'] -= f;
+            if(freq[ch - 'a'] > 0 && !pq.isEmpty()){
+                char next = pq.poll();
+                sb.append(next);
+                freq[next - 'a']--;
+                if(freq[next - 'a'] > 0){
+                    pq.offer(next);
+                }
+                pq.offer(ch);
+            }
+        }
+        return sb.toString();
+    }
+}
+
+
+/*class Solution {
+    public String repeatLimitedString(String s, int repeatLimit) {
         int freq[] = new int[26];
         for(char c : s.toCharArray()){
             freq[c - 'a']++;
@@ -30,7 +65,7 @@ class Solution {
         }
         return sb.toString();
     }
-}
+}*/
 
 /*class Solution {
     public String repeatLimitedString(String s, int repeatLimit) {
