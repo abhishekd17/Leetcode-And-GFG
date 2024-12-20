@@ -456,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-network-delay-time](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0744-network-delay-time) |
 | [0794-swim-in-rising-water](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0794-swim-in-rising-water) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Enumeration
@@ -507,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0794-swim-in-rising-water) |
 | [0833-bus-routes](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0833-bus-routes) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -574,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0113-path-sum-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -589,6 +592,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0113-path-sum-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2677-cousins-in-binary-tree-ii) |
