@@ -456,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-network-delay-time](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0744-network-delay-time) |
 | [0794-swim-in-rising-water](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0794-swim-in-rising-water) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -507,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-sliding-puzzle](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0787-sliding-puzzle) |
 | [0794-swim-in-rising-water](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0794-swim-in-rising-water) |
 | [0833-bus-routes](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0833-bus-routes) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
@@ -604,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0744-network-delay-time) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -650,6 +653,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0794-swim-in-rising-water](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0794-swim-in-rising-water) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2914-find-the-safest-path-in-a-grid) |
 ## Matrix
 |  |
