@@ -2,13 +2,15 @@ class Solution {
     public int makeConnected(int n, int[][] connections) {
         int m = connections.length;
         if( m < n - 1) return -1;
-        List<Integer>[] list = new List[n];
-        for(int i = 0 ; i < n ; i++){
-            list[i] = new ArrayList<>();
+        List<List<Integer>> list = new ArrayList<>();
+        for (int i = 0; i < n; i++) {
+            list.add(new ArrayList<Integer>());
         }
+
         for(int[] c : connections){
-            list[c[0]].add(c[1]);
-            list[c[1]].add(c[0]);
+            list.get(c[0]).add(c[1]);
+            list.get(c[1]).add(c[0]);
+
         }
         int components = 0;
         boolean[] vis =new boolean[n];
@@ -18,10 +20,10 @@ class Solution {
         return components - 1;
     }
 
-    private int dfs(int node , List<Integer>[] list , boolean vis[]){
+    private int dfs(int node , List<List<Integer>> list , boolean vis[]){
         if(vis[node]) return 0;
         vis[node] = true;
-        for(int v : list[node]){
+        for(int v : list.get(node)){
             dfs(v , list , vis);
         }
         return 1;
