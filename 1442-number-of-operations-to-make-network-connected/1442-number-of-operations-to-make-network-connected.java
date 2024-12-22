@@ -1,4 +1,34 @@
-class DisjointSet{
+class Solution {
+    public int makeConnected(int n, int[][] connections) {
+        int m = connections.length;
+        if( m < n - 1) return -1;
+        List<Integer>[] list = new List[n];
+        for(int i = 0 ; i < n ; i++){
+            list[i] = new ArrayList<>();
+        }
+        for(int[] c : connections){
+            list[c[0]].add(c[1]);
+            list[c[1]].add(c[0]);
+        }
+        int components = 0;
+        boolean[] vis =new boolean[n];
+        for(int i = 0 ; i  < n ; i++){
+            components += dfs(i , list , vis);
+        } 
+        return components - 1;
+    }
+
+    private int dfs(int node , List<Integer>[] list , boolean vis[]){
+        if(vis[node]) return 0;
+        vis[node] = true;
+        for(int v : list[node]){
+            dfs(v , list , vis);
+        }
+        return 1;
+    }
+}
+
+/*class DisjointSet{
     int parent[];
     int rank[];
     int size[];
@@ -68,4 +98,4 @@ class Solution {
         }
         return cnt - 1;
     }
-}
+} */
