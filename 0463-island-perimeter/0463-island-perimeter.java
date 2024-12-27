@@ -11,12 +11,12 @@ class Solution {
                     for(int k = 0 ; k < 4 ; k++){
                         int nrow = i + drow[k];
                         int ncol = j + dcol[k];
-                        if(nrow < 0 || nrow >= n || ncol < 0 || ncol >= m){
+                        if(nrow < 0 || nrow >= n || ncol < 0 || ncol >= m || grid[nrow][ncol] == 0){
                             ans++;
                         }
-                        if(nrow >= 0 && nrow < n && ncol >= 0 && ncol < m && grid[nrow][ncol] == 0){
-                            ans++;
-                        }
+                        // if(nrow >= 0 && nrow < n && ncol >= 0 && ncol < m && grid[nrow][ncol] == 0){
+                        //     ans++;
+                        // }
                     }
                 }
             }
