@@ -14,6 +14,29 @@
  * }
  */
 class Solution {
+    TreeNode xParent = null;
+    TreeNode yParent = null;
+    int xDepth = -1 , yDepth = -1;
+
+    public boolean isCousins(TreeNode root, int x, int y) {
+        helper(root , x , y , 0 , null);
+        return xDepth == yDepth && xParent != yParent;
+    }
+    private void helper(TreeNode root , int x , int y , int depth , TreeNode parent){
+        if(root == null) return;
+        if(root.val == x){
+            xParent = parent;
+            xDepth = depth;
+        }else if(root.val == y){
+            yParent = parent;
+            yDepth = depth;
+        }
+        helper(root.left , x , y , depth + 1 , root);
+        helper(root.right , x , y , depth + 1 , root);
+    }
+}
+
+/*class Solution {
     public boolean isCousins(TreeNode root, int x, int y) {
         Queue<TreeNode> q = new LinkedList<>();
         boolean flag1 = false , flag2 = false;
@@ -40,4 +63,4 @@ class Solution {
         }
         return false;
     }
-}
+} */
