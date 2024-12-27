@@ -472,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0463-island-perimeter) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0721-accounts-merge](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0721-accounts-merge) |
 | [0744-network-delay-time](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0744-network-delay-time) |
 | [0794-swim-in-rising-water](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0794-swim-in-rising-water) |
@@ -535,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0463-island-perimeter) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0721-accounts-merge](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0721-accounts-merge) |
 | [0744-network-delay-time](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0744-network-delay-time) |
 | [0787-sliding-puzzle](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0787-sliding-puzzle) |
@@ -617,6 +619,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0404-sum-of-left-leaves) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
@@ -641,6 +644,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0404-sum-of-left-leaves) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
