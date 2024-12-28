@@ -11,6 +11,16 @@
 class Solution {
     public final TreeNode getTargetCopy(final TreeNode original, final TreeNode cloned, final TreeNode target) {
         if(original == null) return null;
+        if(original == target) return cloned;
+        TreeNode left = getTargetCopy(original.left , cloned.left , target);
+        if(left != null) return left;
+        return getTargetCopy(original.right , cloned.right , target);
+    }
+}
+
+/*class Solution {
+    public final TreeNode getTargetCopy(final TreeNode original, final TreeNode cloned, final TreeNode target) {
+        if(original == null) return null;
         Queue<TreeNode[]> q = new LinkedList<>();
         q.offer(new TreeNode[] { original , cloned});
         while(!q.isEmpty()){
@@ -28,4 +38,4 @@ class Solution {
         }
         return null;
     }
-}
+} */
