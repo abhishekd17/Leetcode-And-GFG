@@ -1,5 +1,35 @@
 class Solution {
     public String countAndSay(int n) {
+        String s ="1";
+        for(int i = 1 ; i < n ; i++){
+            s = helper(s);
+        }
+        return s;
+    }
+
+    private String helper(String s){
+        StringBuilder sb = new StringBuilder();
+        char c = s.charAt(0);
+        int cnt = 1;
+        for(int i = 1 ; i < s.length(); i++){
+            if(c == s.charAt(i)){
+                cnt++;
+            }else{
+                sb.append(cnt);
+                sb.append(c);
+                c = s.charAt(i);
+                cnt = 1;
+            }
+        }
+        sb.append(cnt);
+        sb.append(c);
+        return sb.toString();
+    }
+
+}
+
+/*class Solution {
+    public String countAndSay(int n) {
         return helper2(n , 1 , new StringBuilder("1"));
     }
     private String helper2(int n , int x , StringBuilder sb){
@@ -23,4 +53,4 @@ class Solution {
         }
         return sb;
     }
-}
+} */
