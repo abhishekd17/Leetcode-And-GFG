@@ -1,5 +1,29 @@
 class Solution {
     public String countAndSay(int n) {
+        StringBuilder current = new StringBuilder("1");
+
+        for(int i = 1 ; i < n ; i++){
+            StringBuilder next = new StringBuilder();
+            int length = current.length();
+            int j = 0; 
+            while(j < length){
+                int cnt = 0;
+                char ch = current.charAt(j);
+                while(j < length && ch == current.charAt(j)){
+                    j++;
+                    cnt++;
+                }
+                next.append(cnt);
+                next.append(ch);
+            }
+            current = next;
+        }
+        return current.toString();
+    }
+}
+
+/*class Solution {
+    public String countAndSay(int n) {
         String s ="1";
         for(int i = 1 ; i < n ; i++){
             s = helper(s);
@@ -26,7 +50,7 @@ class Solution {
         return sb.toString();
     }
 
-}
+}*/
 
 /*class Solution {
     public String countAndSay(int n) {
