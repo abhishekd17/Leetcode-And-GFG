@@ -1,5 +1,19 @@
 class Solution {
     private final int MOD = 1000000007;
+    public int countGoodStrings(int low, int high, int zero, int one) {
+        int dp[] = new int[high + 1] , ans = 0;
+        dp[0] = 1;
+        for(int len = 1 ; len <= high ; len++){
+            if(len >= zero ) dp[len]= (dp[len] + dp[len - zero]) % MOD;
+            if(len >= one) dp[len] = (dp[len] + dp[len -one]) % MOD;
+            if(len >= low) ans = (ans + dp[len]) % MOD; 
+        }
+        return ans;
+    }
+}
+
+/*class Solution {
+    private final int MOD = 1000000007;
 
     public int countGoodStrings(int low, int high, int zero, int one) {
 
@@ -18,4 +32,4 @@ class Solution {
         return result;
     }
 
-}
+} */
