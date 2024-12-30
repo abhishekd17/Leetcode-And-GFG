@@ -12,7 +12,7 @@ class Solution {
             char ch = s.charAt(i);
             map1.put(ch , map1.getOrDefault(ch , 0) + 1);
             map2.put(ch , map2.getOrDefault(ch , 0) - 1);
-            if(map2.get(ch) == 0) {
+            if(map2.get(ch) <= 0) {
                 map2.remove(ch);
             }
             if(map1.size() == map2.size()) ans++;
