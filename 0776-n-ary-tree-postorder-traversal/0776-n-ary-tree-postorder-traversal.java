@@ -20,6 +20,25 @@ class Node {
 class Solution {
     public List<Integer> postorder(Node root) {
         List<Integer> list = new ArrayList<>();
+        Stack<Node> st = new Stack<>();
+        st.push(root);
+        if(root == null) return list;
+        while(!st.isEmpty()){
+            Node node = st.pop();
+            list.add(node.val);
+
+            for(int i = 0 ; i < node.children.size() ; i++){
+                st.push(node.children.get(i));
+            }
+        }
+        Collections.reverse(list);
+        return list;
+    }
+}
+
+/*class Solution {
+    public List<Integer> postorder(Node root) {
+        List<Integer> list = new ArrayList<>();
         helper(list , root);
         return list;
     }
@@ -31,4 +50,4 @@ class Solution {
         }
         list.add(root.val);
     }
-}
+} */
