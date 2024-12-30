@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1628-count-submatrices-with-all-ones](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1628-count-submatrices-with-all-ones) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1669-minimum-cost-to-cut-a-stick) |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1304-longest-happy-string) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1917-maximum-average-pass-ratio](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1917-maximum-average-pass-ratio) |
 | [2089-maximum-matrix-sum](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2089-maximum-matrix-sum) |
@@ -356,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1256-rank-transform-of-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1675-magnetic-force-between-two-balls](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1675-magnetic-force-between-two-balls) |
 | [2164-two-best-non-overlapping-events](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2164-two-best-non-overlapping-events) |
