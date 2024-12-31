@@ -1,5 +1,31 @@
 class Solution {
     public int mincostTickets(int[] days, int[] costs) {
+        int n = days.length;
+        int dp[] = new int[n + 1];
+
+        for(int ind = n - 1; ind >= 0 ; ind--){
+            int one1 = dp[ind + 1] + costs[0];
+
+            int next7 = ind;
+            while(next7 < days.length && days[next7] <= days[ind] + 6){
+                next7++;
+            }
+            int seven7 = dp[next7] + costs[1];
+
+            int next30 = ind;
+            while(next30 < days.length && days[next30] <= days[ind] + 29){
+                next30++;
+            }
+            int thirty30 = dp[next30] + costs[2];
+
+            dp[ind] = Math.min(one1 , Math.min(seven7 , thirty30));
+        }
+        return dp[0];
+    }
+}
+
+/*class Solution {
+    public int mincostTickets(int[] days, int[] costs) {
         int dp[] = new int[days.length];
         Arrays.fill(dp , -1);
         return helper(days , costs , 0 , dp);
@@ -26,7 +52,7 @@ class Solution {
 
         return dp[ind] = Math.min(one1 , Math.min(seven7 , thirty30));
     }
-}
+}*/
 
 /*class Solution {
     public int mincostTickets(int[] days, int[] costs) {
