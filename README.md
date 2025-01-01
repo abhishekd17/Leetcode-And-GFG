@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0389-find-the-difference) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0432-all-oone-data-structure](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0432-all-oone-data-structure) |
 | [0567-permutation-in-string](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0567-permutation-in-string) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0214-shortest-palindrome](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0389-find-the-difference) |
 | [0516-longest-palindromic-subsequence](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0583-delete-operation-for-two-strings) |
@@ -357,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0242-valid-anagram) |
 | [0368-largest-divisible-subset](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0368-largest-divisible-subset) |
+| [0389-find-the-difference](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0389-find-the-difference) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0721-accounts-merge](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0721-accounts-merge) |
 | [0780-max-chunks-to-make-sorted](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0780-max-chunks-to-make-sorted) |
@@ -624,6 +627,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0067-add-binary) |
+| [0389-find-the-difference](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0389-find-the-difference) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1826-maximum-xor-with-an-element-from-array) |
