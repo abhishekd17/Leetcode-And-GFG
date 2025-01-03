@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0389-find-the-difference) |
+| [0459-repeated-substring-pattern](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0459-repeated-substring-pattern) |
 | [0516-longest-palindromic-subsequence](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0583-delete-operation-for-two-strings) |
@@ -477,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0214-shortest-palindrome) |
+| [0459-repeated-substring-pattern](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0459-repeated-substring-pattern) |
 | [0686-repeated-string-match](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0686-repeated-string-match) |
 | [0812-rotate-string](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0812-rotate-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
