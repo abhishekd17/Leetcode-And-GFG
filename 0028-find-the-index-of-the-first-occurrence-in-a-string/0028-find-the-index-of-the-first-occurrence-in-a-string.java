@@ -34,7 +34,7 @@
     public int strStr(String haystack, String needle) {
         return rabinKarp(haystack , needle);
     }
-        private static final int BASE = 1000000;
+        private static final int BASE = 10000;
 
     private static int rabinKarp(String s, String t) {
         // first case
