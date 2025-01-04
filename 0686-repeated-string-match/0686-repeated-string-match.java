@@ -1,4 +1,5 @@
 class Solution {
+    private static final int BASE = 31;
     public int repeatedStringMatch(String a, String b) {
         if(a.equals(b)) return 1;
         int cnt = 1;
@@ -12,7 +13,6 @@ class Solution {
         if(rabinKarp(ss + a , b) != -1) return cnt + 1;
         return -1;
     }
-    private static final int BASE = 1000000;
 
     private static int rabinKarp(String s, String t) {
         // first case
