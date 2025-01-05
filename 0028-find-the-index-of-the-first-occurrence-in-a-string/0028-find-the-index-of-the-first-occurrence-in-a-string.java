@@ -32,7 +32,12 @@
 
  class Solution {
     public int strStr(String haystack, String needle) {
-        return rabinKarp(haystack , needle);
+        // return rabinKarp(haystack , needle);
+        int[] z = calculateZ(needle + "$" + haystack);
+        for(int i = 0 ; i < z.length ; i++){
+            if(z[i] == needle.length()) return i - needle.length() - 1;
+        }
+        return -1;
     }
         private static final int BASE = 10000;
 
@@ -74,5 +79,36 @@
             }
         }
         return -1;
+    }
+    private static int[] calculateZ(String s){
+        int n = s.length();
+        int z[] = new int[n];
+        int left = 0;
+        int right = 0;
+        for(int i = 0 ; i < n ; i++){
+            if(i > right){
+                left = right = i;
+                while(right < n && s.charAt(right) == s.charAt(right - left)){
+                    right++;
+                }
+                z[i] = right - left;
+                right--;
+            }else{
+                // we are operating inside the box
+                int k1 = i - left;
+                // if value does not stretches till right bound then just copy it
+                if(z[k1] < right - i + 1){
+                    z[i] = z[k1];
+                }else{ // try to see if there are more matches
+                    left  = i;
+                    while(right < n  && s.charAt(right) == s.charAt(right - left)){
+                        right++;
+                    }
+                    z[i] = right - left;
+                    right--;
+                }
+            }
+        }
+        return z;
     }
 }
