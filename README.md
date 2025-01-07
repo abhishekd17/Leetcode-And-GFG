@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3593-find-the-maximum-factor-score-of-array](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3593-find-the-maximum-factor-score-of-array) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3702-maximum-subarray-with-equal-products) |
+| [3715-maximum-coins-from-k-consecutive-bags](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3715-maximum-coins-from-k-consecutive-bags) |
 ## Hash Table
 |  |
 | ------- |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3702-maximum-subarray-with-equal-products) |
+| [3715-maximum-coins-from-k-consecutive-bags](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3715-maximum-coins-from-k-consecutive-bags) |
 ## Counting
 |  |
 | ------- |
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3427-special-array-ii](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3427-special-array-ii) |
+| [3715-maximum-coins-from-k-consecutive-bags](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3715-maximum-coins-from-k-consecutive-bags) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -374,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2716-prime-subtraction-operation](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2716-prime-subtraction-operation) |
 | [3195-separate-black-and-white-balls](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3195-separate-black-and-white-balls) |
+| [3715-maximum-coins-from-k-consecutive-bags](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3715-maximum-coins-from-k-consecutive-bags) |
 ## Sorting
 |  |
 | ------- |
@@ -402,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3291-find-if-array-can-be-sorted](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3291-find-if-array-can-be-sorted) |
+| [3715-maximum-coins-from-k-consecutive-bags](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3715-maximum-coins-from-k-consecutive-bags) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -656,6 +661,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3427-special-array-ii](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3427-special-array-ii) |
+| [3715-maximum-coins-from-k-consecutive-bags](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3715-maximum-coins-from-k-consecutive-bags) |
 ## Queue
 |  |
 | ------- |
