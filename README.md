@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2914-find-the-safest-path-in-a-grid](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3291-find-if-array-can-be-sorted](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3291-find-if-array-can-be-sorted) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3195-separate-black-and-white-balls](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3195-separate-black-and-white-balls) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3451-string-compression-iii](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3451-string-compression-iii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -472,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2755-extra-characters-in-a-string) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Two Pointers
 |  |
@@ -506,16 +509,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1508-longest-happy-prefix](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1508-longest-happy-prefix) |
 | [1524-string-matching-in-an-array](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Rolling Hash
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0214-shortest-palindrome) |
 | [1508-longest-happy-prefix](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1508-longest-happy-prefix) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Hash Function
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0214-shortest-palindrome) |
 | [1508-longest-happy-prefix](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1508-longest-happy-prefix) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Depth-First Search
 |  |
 | ------- |
