@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2755-extra-characters-in-a-string](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2755-extra-characters-in-a-string) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3595-rearrange-k-substrings-to-form-target-string](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3595-rearrange-k-substrings-to-form-target-string) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3634-find-mirror-score-of-a-string](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3634-find-mirror-score-of-a-string) |
 ## Linked List
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3451-string-compression-iii](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3451-string-compression-iii) |
+| [3595-rearrange-k-substrings-to-form-target-string](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3595-rearrange-k-substrings-to-form-target-string) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3634-find-mirror-score-of-a-string](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3634-find-mirror-score-of-a-string) |
 ## Sliding Window
@@ -418,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3291-find-if-array-can-be-sorted](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3291-find-if-array-can-be-sorted) |
+| [3595-rearrange-k-substrings-to-form-target-string](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3595-rearrange-k-substrings-to-form-target-string) |
 | [3715-maximum-coins-from-k-consecutive-bags](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3715-maximum-coins-from-k-consecutive-bags) |
 ## Dynamic Programming
 |  |
