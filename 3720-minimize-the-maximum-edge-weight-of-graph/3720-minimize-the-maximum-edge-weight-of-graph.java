@@ -13,9 +13,9 @@ class Solution {
             list.get(e[0]).add(e);
         }
         
-        for(int i = 0 ; i < n ; i++){
-            list.get(i).sort(Comparator.comparingInt(a -> a[2]));
-        }
+        // for(int i = 0 ; i < n ; i++){
+        //     list.get(i).sort(Comparator.comparingInt(a -> a[2]));
+        // }
         
         int l = 1 ;
         int r = 1000000;
