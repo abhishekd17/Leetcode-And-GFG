@@ -1,6 +1,27 @@
 class Solution {
     public int[] findThePrefixCommonArray(int[] a, int[] b) {
         int n = a.length;
+        int freq[] = new int[n + 1];
+
+        int ans[] = new int[n];
+        int cnt = 0;
+        for(int i = 0 ; i  < n ; i++){
+            if(freq[a[i]] > 0) cnt++;
+            freq[a[i]]++;
+
+            if(freq[b[i]] > 0) cnt++;
+            freq[b[i]]++;
+
+            ans[i] = cnt;
+        }
+        return ans;
+    }
+}
+
+// brute force 
+/*class Solution {
+    public int[] findThePrefixCommonArray(int[] a, int[] b) {
+        int n = a.length;
         int ans[] = new int[n];
         Set<Integer> set = new HashSet<>();
         for(int i = 0 ; i < n ;i++){
@@ -13,4 +34,4 @@ class Solution {
         }
         return ans;
     }
-}
+} */
