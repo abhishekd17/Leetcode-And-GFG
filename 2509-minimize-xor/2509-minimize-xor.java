@@ -1,18 +1,37 @@
 class Solution {
     public int minimizeXor(int num1, int num2) {
-        int a = Integer.bitCount(num1);
-        int b = Integer.bitCount(num2);
-        int res = num1;
-        for (int i = 0; i < 32; i++) {
-            if (a > b && ((1 << i) & num1) > 0) {
-                res ^= 1 << i;
-                a--;
-            }
-            if (a < b && ((1 << i) & num1) == 0) {
-                res ^= 1 << i;
-                a++;
-            }
+        int x = Integer.bitCount(num1);
+        int y = Integer.bitCount(num2);
+
+        if(x == y) return num1;
+
+        // convert num1 into binary rep
+       StringBuilder sb = new StringBuilder(Integer.toBinaryString(num1));
+
+        while (sb.length() < 32) {
+            sb.insert(0, '0'); // Add leading zeros at the start
         }
-        return res;
+
+        // x > y
+        int i = sb.length() - 1 ;
+        while(x > y){
+            if(sb.charAt(i) == '1'){
+                sb.setCharAt(i , '0');
+                 x--;
+            }
+            i--;
+        }
+        // x < y
+        i = sb.length() - 1 ;
+        while(x < y){
+            if(sb.charAt(i) == '0'){
+                sb.setCharAt(i , '1');
+                y--;    
+            }
+            i--;
+        }
+
+        int ans = Integer.parseInt(sb.toString() , 2);
+        return ans;
     }
 }
