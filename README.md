@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0312-burst-balloons) |
 | [0368-largest-divisible-subset](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0368-largest-divisible-subset) |
+| [0407-trapping-rain-water-ii](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0407-trapping-rain-water-ii) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0463-island-perimeter](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0463-island-perimeter) |
 | [0493-reverse-pairs](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0493-reverse-pairs) |
@@ -635,6 +636,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0127-word-ladder) |
 | [0226-invert-binary-tree](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0404-sum-of-left-leaves) |
+| [0407-trapping-rain-water-ii](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0407-trapping-rain-water-ii) |
 | [0463-island-perimeter](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0463-island-perimeter) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0617-merge-two-binary-trees](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0617-merge-two-binary-trees) |
@@ -812,6 +814,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0407-trapping-rain-water-ii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0744-network-delay-time](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0744-network-delay-time) |
 | [0794-swim-in-rising-water](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0794-swim-in-rising-water) |
@@ -862,6 +865,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0085-maximal-rectangle](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0085-maximal-rectangle) |
 | [0221-maximal-square](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0221-maximal-square) |
+| [0407-trapping-rain-water-ii](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0407-trapping-rain-water-ii) |
 | [0463-island-perimeter](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0463-island-perimeter) |
 | [0787-sliding-puzzle](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0787-sliding-puzzle) |
 | [0794-swim-in-rising-water](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0794-swim-in-rising-water) |
