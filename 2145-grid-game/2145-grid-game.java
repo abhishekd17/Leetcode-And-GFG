@@ -1,5 +1,18 @@
 class Solution {
     public long gridGame(int[][] grid) {
+        long top = Arrays.stream(grid[0]).asLongStream().sum() , bottom = 0 , ans = Long.MAX_VALUE;
+        for(int i = 0 ; i < grid[0].length ; i++){
+            top -= grid[0][i];
+            ans = Math.min(Math.max(top , bottom) , ans);
+            bottom += grid[1][i];
+        }
+        return ans;
+    }
+}
+
+
+/*class Solution {
+    public long gridGame(int[][] grid) {
         int n = grid[0].length;
 
         long ans = Long.MAX_VALUE;
@@ -25,4 +38,4 @@ class Solution {
         }
         return ans;
     }
-}
+} */
