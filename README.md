@@ -570,6 +570,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0617-merge-two-binary-trees](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0684-redundant-connection](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0684-redundant-connection) |
 | [0721-accounts-merge](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0721-accounts-merge) |
 | [0744-network-delay-time](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0744-network-delay-time) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0775-n-ary-tree-preorder-traversal) |
@@ -651,6 +652,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0617-merge-two-binary-trees](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0684-redundant-connection](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0684-redundant-connection) |
 | [0721-accounts-merge](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0721-accounts-merge) |
 | [0744-network-delay-time](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0744-network-delay-time) |
 | [0787-sliding-puzzle](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0787-sliding-puzzle) |
@@ -811,6 +813,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0684-redundant-connection) |
 | [0744-network-delay-time](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0744-network-delay-time) |
 | [0820-find-eventual-safe-states](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0820-find-eventual-safe-states) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -871,6 +874,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0684-redundant-connection) |
 | [0721-accounts-merge](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0721-accounts-merge) |
 | [0794-swim-in-rising-water](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0854-making-a-large-island) |
