@@ -53,7 +53,6 @@ class Solution {
     public int largestIsland(int[][] grid) {
         int n = grid.length;
         DisjointSet ds = new DisjointSet(n * n);
-        int vis[][] = new int[n][n];
         
         boolean allOne = true;
         for(int[] row : grid){
@@ -71,13 +70,11 @@ class Solution {
             for(int j = 0 ; j < n ; j++){
                 int node = i * n + j;
                 if(grid[i][j] == 1){
-                    // vis[i][j] = 1;
                     for(int k = 0 ; k < 4 ; k++){
                         int nrow = i + drow[k];
                         int ncol = j + dcol[k];
                         int nNode = (nrow * n) + ncol;
                         if(nrow >= 0 && nrow < n && ncol >= 0 && ncol < n  && grid[nrow][ncol] == 1){
-                            // vis[nrow][ncol] = 1;
                             if(ds.findParent(node) != ds.findParent(nNode)){
                                 ds.unionBySize(node , nNode);
                             }
