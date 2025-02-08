@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2300-construct-string-with-repeat-limit](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2300-construct-string-with-repeat-limit) |
+| [2434-design-a-number-container-system](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2434-design-a-number-container-system) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2599-take-k-of-each-character-from-left-and-right) |
@@ -392,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0732-my-calendar-iii) |
+| [2434-design-a-number-container-system](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2434-design-a-number-container-system) |
 | [2868-continuous-subarrays](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2868-continuous-subarrays) |
 ## Greedy
 |  |
@@ -703,6 +705,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0732-my-calendar-iii](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0732-my-calendar-iii) |
 | [0859-design-circular-deque](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0859-design-circular-deque) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1497-design-a-stack-with-increment-operation) |
+| [2434-design-a-number-container-system](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2434-design-a-number-container-system) |
 | [2678-design-graph-with-shortest-path-calculator](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2678-design-graph-with-shortest-path-calculator) |
 ## Prefix Sum
 |  |
@@ -861,6 +864,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2164-two-best-non-overlapping-events](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2164-two-best-non-overlapping-events) |
 | [2300-construct-string-with-repeat-limit](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2300-construct-string-with-repeat-limit) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2434-design-a-number-container-system](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2434-design-a-number-container-system) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2678-design-graph-with-shortest-path-calculator](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2678-design-graph-with-shortest-path-calculator) |
