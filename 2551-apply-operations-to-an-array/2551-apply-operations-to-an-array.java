@@ -9,12 +9,14 @@ class Solution {
             }
         }
         int j = 0;
-        int ans[] = new int[n];
+        // int ans[] = new int[n];
         for(int i = 0 ; i < n ; i++){
             if(nums[i] != 0){
-                ans[j++] = nums[i];
+                nums[j++] = nums[i];
             }
         }
-       return ans;
+
+        while(j < n ) nums[j++] = 0;
+       return nums;
     }
 }
