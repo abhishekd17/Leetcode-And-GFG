@@ -1,5 +1,45 @@
 class Solution {
     public long repairCars(int[] ranks, int cars) {
+        int n = ranks.length;
+        long l = 1 , r = (long) 1e14;
+
+        while(l < r){
+            long mid = l + (r - l ) / 2 , car = 0;
+
+            for(int i = 0 ;i < n ; i++){
+                car += (long) Math.sqrt(mid / ranks[i]);
+            } 
+            if(car >= cars) r = mid;
+            else l = mid + 1;
+        }
+        return l;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*class Solution {
+    public long repairCars(int[] ranks, int cars) {
         long l = 1 , r = 1L*ranks[0] * cars * cars;
         while(l < r){
             long mid = l + (r - l) / 2 , rep_cars = 0;
@@ -14,7 +54,7 @@ class Solution {
         }
         return l;
     }
-}
+}*/
 
 /*class Solution {
     public long repairCars(int[] ranks, int cars) {
