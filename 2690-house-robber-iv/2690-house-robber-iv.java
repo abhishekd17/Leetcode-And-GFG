@@ -1,5 +1,24 @@
 class Solution {
     public int minCapability(int[] nums, int k) {
+        int n = nums.length , l = 1 , r = (int)1e9;
+        while(l < r){
+            int mid = (l + r) / 2 , take = 0;
+            for(int i = 0 ; i < n ; i++){
+                if(nums[i] <= mid){
+                    take++;
+                    i++;
+                }
+            }
+            if(take >= k) r = mid;
+            else l = mid + 1;
+        }
+        return l;
+    }
+}
+
+
+/*class Solution {
+    public int minCapability(int[] nums, int k) {
         int n = nums.length;
         int l = Integer.MAX_VALUE , r = Integer.MIN_VALUE;
 
@@ -29,7 +48,7 @@ class Solution {
         return ans;
     }
 }
-
+*/
 
 /*class Solution {
     int n ;
