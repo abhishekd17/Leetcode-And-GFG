@@ -5,7 +5,28 @@ class Solution {
         int ans = 0;
 
         for(int i = 0 ; i < n ; i++){
-            for(int j = i ; j < i + 30 && j < n ; j++){
+            int mask = 0 ;
+            for(int j = i ; j < n ; j++){
+                if((mask & nums[j]) != 0) break;
+                else{
+                    ans = Math.max(ans , j - i + 1);
+                    mask |= nums[j];
+                }
+            }
+        }
+        return ans;
+    }
+}
+
+// brute force
+/*class Solution {
+    public int longestNiceSubarray(int[] nums) {
+        int n = nums.length;
+
+        int ans = 0;
+
+        for(int i = 0 ; i < n ; i++){
+            for(int j = i ; j < j < n ; j++){
                 if(isNice(nums , i , j)){
                     ans = Math.max(ans , j - i + 1);
                 }else{
@@ -24,4 +45,4 @@ class Solution {
         }
         return true;
     }
-}
+} */
