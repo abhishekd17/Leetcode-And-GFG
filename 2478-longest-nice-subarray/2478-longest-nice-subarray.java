@@ -1,6 +1,30 @@
 class Solution {
     public int longestNiceSubarray(int[] nums) {
         int n = nums.length;
+        int i = 0 , j = 0;
+
+        int mask = 0;
+        int ans = 1;
+
+        while(j < n ){
+            while((mask & nums[j]) != 0){
+                mask ^= nums[i];
+                i++;
+            }
+            ans = Math.max(ans , j - i + 1);
+            mask |= nums[j];
+            j++;
+        }
+        return ans;
+    }
+}
+
+
+
+// better approch
+/*class Solution {
+    public int longestNiceSubarray(int[] nums) {
+        int n = nums.length;
 
         int ans = 0;
 
@@ -16,7 +40,7 @@ class Solution {
         }
         return ans;
     }
-}
+}*/
 
 // brute force
 /*class Solution {
