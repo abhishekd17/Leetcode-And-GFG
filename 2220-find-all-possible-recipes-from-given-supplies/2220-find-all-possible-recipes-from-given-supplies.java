@@ -1,28 +1,30 @@
 class Solution {
-        public List<String> findAllRecipes(String[] recipes, List<List<String>> ingredients, String[] supplies) {
-        Set<String> seen = new HashSet<>();
-        for (String sup : supplies) {
-            seen.add(sup);
-        }
-        Queue<Integer> q = new LinkedList<>();
-        for (int i = 0; i < recipes.length; ++i) {
-            q.offer(i);
-        }
+    public List<String> findAllRecipes(String[] recipes, List<List<String>> list, String[] supplies) {
+        int n = recipes.length;
+
+        Set<String> set = new HashSet();
+
         List<String> ans = new ArrayList<>();
-        int prevSize = seen.size() - 1;
-        while (seen.size() > prevSize) {
-            prevSize = seen.size();
-            mid:
-            for (int sz = q.size(); sz > 0; --sz) {
-                int i = q.poll();
-                for (String ing : ingredients.get(i)) {
-                    if (!seen.contains(ing)) {
-                        q.offer(i);
-                        continue mid;
+        for(String s : supplies){
+            set.add(s);
+        }
+        int cnt = n;
+        int cooked[] = new int[n];
+        while(cnt-- > 0){
+            for(int i = 0 ; i < n ; i++){
+                if(cooked[i] == 1) continue;
+                boolean isPossible = true;
+                for(int j = 0 ; j < list.get(i).size() ; j++){
+                    if(!set.contains(list.get(i).get(j))){
+                        isPossible = false;
+                        break;
                     }
                 }
-                seen.add(recipes[i]);
-                ans.add(recipes[i]);
+                if(isPossible){
+                    cooked[i] = 1;
+                    ans.add(recipes[i]);
+                    set.add(recipes[i]);
+                }
             }
         }
         return ans;
