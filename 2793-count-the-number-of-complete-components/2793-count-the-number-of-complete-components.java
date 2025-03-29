@@ -1,6 +1,37 @@
 class Solution {
     public int countCompleteComponents(int n, int[][] edges) {
 
+        DSU dsu = new DSU(n);
+
+        Map<Integer , Integer> map = new HashMap<>();
+
+       for(int[] e : edges){
+        dsu.unionBySize(e[0] , e[1]);
+       }
+
+       for(int[] e : edges){
+        int x = dsu.findParent(e[0]);
+        map.put(x , map.getOrDefault(x , 0) + 1);
+       }
+       int ans = 0;
+
+        for(int i = 0 ; i < n ; i++){
+            if(dsu.findParent(i) == i){
+                int s = dsu.size[i];
+                int e = s * (s - 1) / 2;
+                int ee = map.getOrDefault(i, 0);
+                if(e == ee) ans++;
+            }
+        }
+
+        return ans;
+    }
+}
+
+
+/*class Solution {
+    public int countCompleteComponents(int n, int[][] edges) {
+
         List<List<Integer>> list = new ArrayList<>();
         for (int i = 0; i < n; i++)
             list.add(new ArrayList());
@@ -49,7 +80,7 @@ class Solution {
         actualEdges /= 2;
         return requiredEdges == actualEdges;
     }
-}
+}*/
 
 class DSU {
     int parent[];
@@ -90,7 +121,7 @@ class DSU {
         }
     }
 
-    private void unionBySize(int u, int v) {
+    public void unionBySize(int u, int v) {
         int pU = findParent(u);
         int pV = findParent(v);
 
