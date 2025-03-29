@@ -26,7 +26,6 @@ class Solution {
                 y++;
             }
             endY = Math.max(endY , yAxis[i][1]);
-            System.out.println(x + " " + y);
         }
 
         return (x >= 2 || y >= 2);
