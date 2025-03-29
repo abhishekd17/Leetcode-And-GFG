@@ -1,4 +1,59 @@
 class Solution {
+    private int mod = 1000000007;
+    public int countPaths(int n, int[][] roads) {
+
+        List<List<Pair>> list = new ArrayList<>();
+        for(int i = 0 ; i < n ; i++) list.add(new ArrayList<>());
+
+        for(int[] road :roads){
+            list.get(road[0]).add(new Pair(road[1] , road[2]));
+            list.get(road[1]).add(new Pair(road[0] , road[2]));
+        }
+
+        PriorityQueue<Pair> pq = new PriorityQueue<>((x ,y ) -> Long.compare(x.t , y.t));
+        pq.add(new Pair(0 , 0));
+
+        int ways[] = new int[n];
+        long time[] = new long[n];
+
+        Arrays.fill(time , Long.MAX_VALUE);
+
+        ways[0] = 1;
+        time[0] = 0;
+
+        while(!pq.isEmpty()){
+            Pair p = pq.poll();
+            int u = p.u;
+            long ct = p.t;
+
+            for(Pair pp : list.get(u)){
+                int adjNode = pp.u;
+                long t = pp.t;
+
+                if(ct + t < time[adjNode]){
+                    time[adjNode] = ct + t;
+                    pq.add(new Pair(adjNode , time[adjNode]));
+                    ways[adjNode] = ways[u] % mod;
+                }else if(ct + t == time[adjNode]){
+                    ways[adjNode] =(ways[adjNode] + ways[u]) % mod;
+                }
+            }
+        }
+        return ways[n - 1] % mod;
+    }
+}
+
+class Pair{
+    int u;
+    long t;
+    Pair(int u , long t){
+        this.u = u;
+        this.t = t;
+    }
+}
+
+
+/*class Solution {
     public int countPaths(int n, int[][] roads) {
         List<List<Pair>> list = new ArrayList<>();
         for(int i = 0 ; i < n ; i++){
@@ -52,4 +107,4 @@ class Pair{
         this.u = u ;
         this.t = t;
     }
-}
+}*/
