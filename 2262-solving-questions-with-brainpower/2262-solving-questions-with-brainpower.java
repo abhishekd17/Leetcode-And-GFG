@@ -1,6 +1,25 @@
 class Solution {
     public long mostPoints(int[][] nums) {
         int n = nums.length;
+
+        long dp[] = new long[n + 1];
+        
+        for(int i = n - 1 ; i >= 0 ; i--){
+            long not_pick = dp[i + 1];
+            long pick = nums[i][0];
+            int next = nums[i][1] + i + 1 ;
+            if(next <= n ){
+                pick += dp[next];
+            }
+            dp[i] = Math.max(pick , not_pick);
+        }
+        return dp[0];
+    }
+}
+
+/*class Solution {
+    public long mostPoints(int[][] nums) {
+        int n = nums.length;
         long dp[] = new long[n];
         Arrays.fill(dp , -1);
         return helper(nums , 0 , dp);
@@ -18,4 +37,4 @@ class Solution {
         }
         return dp[ind] = Math.max(pick , not_pick);
     }
-}
+} */
