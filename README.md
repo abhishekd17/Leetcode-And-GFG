@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-maximum-ascending-subarray-sum](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1940-maximum-xor-for-each-query](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1940-maximum-xor-for-each-query) |
 | [1972-rotating-the-box](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1972-rotating-the-box) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2089-maximum-matrix-sum](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2089-maximum-matrix-sum) |
 | [2107-find-unique-binary-string](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2107-find-unique-binary-string) |
@@ -491,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1917-maximum-average-pass-ratio](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1917-maximum-average-pass-ratio) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2089-maximum-matrix-sum](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2089-maximum-matrix-sum) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2300-construct-string-with-repeat-limit](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2300-construct-string-with-repeat-limit) |
@@ -524,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1675-magnetic-force-between-two-balls](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1675-magnetic-force-between-two-balls) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2164-two-best-non-overlapping-events](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -633,6 +636,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1923-sentence-similarity-iii](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1923-sentence-similarity-iii) |
 | [1972-rotating-the-box](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1972-rotating-the-box) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2232-adding-spaces-to-a-string](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2232-adding-spaces-to-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2265-partition-array-according-to-given-pivot) |
