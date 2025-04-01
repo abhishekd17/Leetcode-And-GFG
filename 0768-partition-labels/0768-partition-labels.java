@@ -1,25 +1,24 @@
 class Solution {
     public List<Integer> partitionLabels(String s) {
-        Map<Character, Integer> map = new HashMap<>();
-        // filling impact of character's
-        for(int i = 0; i < s.length(); i++){
-            char ch = s.charAt(i);
-            map.put(ch, i);
+
+        int n = s.length();
+        List<Integer> ans = new ArrayList<>();
+
+        Map<Character , Integer> map = new HashMap<>();
+
+        for(int i = 0 ; i < n ; i++){
+            map.put(s.charAt(i) , i);
         }
-        // making of result
-        List<Integer> res = new ArrayList<>();
-        int prev = -1;
-        int max = 0;
-        
-        for(int i = 0; i < s.length(); i++){
-            char ch = s.charAt(i);
-            max = Math.max(max, map.get(ch));
-            if(max == i){
-                // partition time
-                res.add(max - prev);
-                prev = max;
+
+        int start = 0 , end = 0;
+
+        for(int i = 0 ; i < n ; i++){
+            end = Math.max(end , map.get(s.charAt(i)));
+            if(end == i){
+                ans.add(end - start + 1);
+                start = i + 1;
             }
         }
-        return res;
+        return ans;
     }
 }
