@@ -15,6 +15,31 @@
  */
 class Solution {
     public TreeNode lcaDeepestLeaves(TreeNode root) {
+        Pair result = LCA(root);
+        return result.node;
+    }
+    private Pair LCA(TreeNode root){
+        if(root == null) return new Pair(0 , null);
+        Pair left = LCA(root.left);
+        Pair right = LCA(root.right);
+
+        if(left.depth == right.depth) return new Pair(left.depth + 1 , root);
+        else if(left.depth > right.depth) return new Pair(left.depth + 1 , left.node);
+        else return new Pair(right.depth + 1 , right.node);
+    }
+    class Pair{
+        int depth;
+        TreeNode node;
+        Pair(int depth , TreeNode node){
+            this.depth = depth;
+            this.node = node;
+        }
+    }
+}
+
+
+/*class Solution {
+    public TreeNode lcaDeepestLeaves(TreeNode root) {
         if(root == null) return null;
         Queue<TreeNode> q = new LinkedList<>();
         
@@ -56,4 +81,4 @@ class Solution {
         else if(right == null ) return left;
         else return root;
     }
-}
+} */
