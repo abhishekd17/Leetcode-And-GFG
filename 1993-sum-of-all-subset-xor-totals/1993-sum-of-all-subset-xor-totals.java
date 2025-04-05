@@ -1,5 +1,17 @@
 class Solution {
     public int subsetXORSum(int[] nums) {
+        int ans = 0;
+        
+        for(int num : nums){
+            ans |= num;
+        }
+        return ans << nums.length - 1;
+    }
+}
+
+
+/*class Solution {
+    public int subsetXORSum(int[] nums) {
         return helper(nums , 0 , 0);
     }
     private int helper(int nums[] , int ind , int xor){
@@ -8,7 +20,7 @@ class Solution {
         int exclude = helper(nums , ind + 1 , xor);
         return include + exclude;
     }
-}
+}*/
 
 /*class Solution {
     public int subsetXORSum(int[] nums) {
