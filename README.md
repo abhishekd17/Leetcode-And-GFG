@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0217-contains-duplicate) |
 | [0221-maximal-square](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0221-maximal-square) |
 | [0300-longest-increasing-subsequence](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0300-longest-increasing-subsequence) |
+| [0303-range-sum-query-immutable](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0303-range-sum-query-immutable) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0312-burst-balloons) |
 | [0368-largest-divisible-subset](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0368-largest-divisible-subset) |
@@ -835,6 +836,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0303-range-sum-query-immutable](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0303-range-sum-query-immutable) |
 | [0432-all-oone-data-structure](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0432-all-oone-data-structure) |
 | [0729-my-calendar-i](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0731-my-calendar-ii) |
@@ -848,6 +850,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0209-minimum-size-subarray-sum) |
+| [0303-range-sum-query-immutable](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0303-range-sum-query-immutable) |
 | [0713-subarray-product-less-than-k](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0713-subarray-product-less-than-k) |
 | [0731-my-calendar-ii](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0732-my-calendar-iii) |
