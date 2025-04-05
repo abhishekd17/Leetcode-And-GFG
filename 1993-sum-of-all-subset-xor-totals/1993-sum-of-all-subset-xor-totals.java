@@ -1,5 +1,17 @@
 class Solution {
     public int subsetXORSum(int[] nums) {
+        return helper(nums , 0 , 0);
+    }
+    private int helper(int nums[] , int ind , int xor){
+        if(ind == nums.length) return xor;
+        int include = helper(nums , ind + 1 , xor ^ nums[ind]);
+        int exclude = helper(nums , ind + 1 , xor);
+        return include + exclude;
+    }
+}
+
+/*class Solution {
+    public int subsetXORSum(int[] nums) {
         int n = nums.length;
        
         List<List<Integer>> result = new ArrayList<>();
@@ -38,4 +50,6 @@ class Solution {
             curr.remove(curr.size() - 1);
         }
     }
-}
+
+    
+} */
