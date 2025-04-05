@@ -3,7 +3,7 @@ class Solution {
         int n = nums.length;
        
         List<List<Integer>> result = new ArrayList<>();
-        helper(nums , 0 , new ArrayList<>() , result);
+        helper2(nums , 0 , new ArrayList<>() , result);
         
         int ans = 0;
         
@@ -28,5 +28,14 @@ class Solution {
 
         curr.remove(curr.size() - 1);
         helper(nums , ind + 1 , curr , result);
+    }
+
+    private void helper2(int nums[] , int start , List<Integer> curr , List<List<Integer>> result){
+        result.add(new ArrayList<>(curr));
+        for(int i = start ; i < nums.length ; i++){
+            curr.add(nums[i]);
+            helper2(nums , i + 1 , curr , result);
+            curr.remove(curr.size() - 1);
+        }
     }
 }
