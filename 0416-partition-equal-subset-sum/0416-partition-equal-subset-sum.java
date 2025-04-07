@@ -7,30 +7,25 @@ class Solution {
 
         if(sum % 2 != 0 ) return false;
 
-        Boolean dp[][] = new Boolean[n][sum / 2 + 1];
+        boolean dp[][] = new boolean[n][sum / 2 + 1];
         
-        return helper(nums , sum / 2 , 0 , dp);
-    }
-
-    private boolean helper(int nums[] , int sum , int ind , Boolean dp[][]){
-        // base case
-        if(ind >= nums.length || sum < 0) return false;
-        
-        if(sum == 0) return true;
-        
-        if(dp[ind][sum] != null ) return dp[ind][sum];
-        
-        // not_pick
-        
-        boolean not_pick = helper(nums , sum , ind + 1 , dp);
-        
-        // pick
-        boolean pick = false;
-        
-        if(sum > 0 ){
-            pick = helper(nums , sum - nums[ind] , ind + 1 , dp);
+        for(int i = 0 ; i < n ; i++){
+            dp[i][0] = true;
         }
-        return dp[ind][sum] = pick || not_pick;
+
+        if(nums[0] <= sum /2 ) dp[0][nums[0]] = true;
+
+        for(int i = 1 ; i < n ; i++){
+            for(int j = 0 ; j <= sum / 2 ; j++){
+                boolean not_pick = dp[i - 1][j];
+                boolean pick = false;
+                if(j >= nums[i]){
+                    pick = dp[i - 1][j - nums[i]];
+                }
+                dp[i][j] = pick || not_pick;
+            }
+        }
+        return dp[n - 1][sum / 2];
     }
 }
 
