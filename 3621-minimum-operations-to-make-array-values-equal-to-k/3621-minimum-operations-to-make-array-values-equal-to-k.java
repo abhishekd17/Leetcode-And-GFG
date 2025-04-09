@@ -4,13 +4,16 @@ class Solution {
         
         Set<Integer> set = new HashSet<>();
         
-        for(int num : nums) set.add(num);
-
-        Arrays.sort(nums);
+        int mini = Integer.MAX_VALUE;
         
-        if(nums[0] < k) return -1;
+        for(int num : nums) {
+            set.add(num);
+            mini = Math.min(mini , num);
+        }
         
-        if(nums[0] == k) return set.size() - 1;
+        if(mini < k) return -1;
+        
+        if(mini == k) return set.size() - 1;
         
         return set.size();
     }
