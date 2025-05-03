@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-maximum-width-ramp](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1002-maximum-width-ramp) |
 | [1025-minimum-cost-for-tickets](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1025-minimum-cost-for-tickets) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1063-best-sightseeing-pair](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1063-best-sightseeing-pair) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1121-partition-array-for-maximum-sum](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1121-partition-array-for-maximum-sum) |
@@ -540,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-max-chunks-to-make-sorted](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0780-max-chunks-to-make-sorted) |
 | [0797-rabbits-in-forest](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0797-rabbits-in-forest) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1304-longest-happy-string](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1304-longest-happy-string) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1502-construct-k-palindrome-strings](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1502-construct-k-palindrome-strings) |
