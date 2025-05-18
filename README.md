@@ -665,6 +665,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1871-palindrome-partitioning-iv](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1871-palindrome-partitioning-iv) |
+| [2061-painting-a-grid-with-three-different-colors](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2164-two-best-non-overlapping-events](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2164-two-best-non-overlapping-events) |
