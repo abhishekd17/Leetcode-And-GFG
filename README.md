@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0073-set-matrix-zeroes) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0085-maximal-rectangle) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0073-set-matrix-zeroes](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0073-set-matrix-zeroes) |
 | [0127-word-ladder](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0127-word-ladder) |
 | [0202-happy-number](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0205-isomorphic-strings) |
@@ -1166,6 +1168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0085-maximal-rectangle) |
 | [0221-maximal-square](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0221-maximal-square) |
 | [0304-range-sum-query-2d-immutable](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0304-range-sum-query-2d-immutable) |
