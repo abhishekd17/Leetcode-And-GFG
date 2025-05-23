@@ -299,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0368-largest-divisible-subset) |
 | [0670-maximum-swap](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0670-maximum-swap) |
 | [0797-rabbits-in-forest](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0797-rabbits-in-forest) |
+| [1359-circular-permutation-in-binary-representation](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1359-circular-permutation-in-binary-representation) |
 | [1477-product-of-the-last-k-numbers](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
@@ -979,6 +980,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0461-hamming-distance](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0461-hamming-distance) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
+| [1359-circular-permutation-in-binary-representation](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1359-circular-permutation-in-binary-representation) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [1940-maximum-xor-for-each-query](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1940-maximum-xor-for-each-query) |
@@ -1213,6 +1215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0113-path-sum-ii](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0113-path-sum-ii) |
 | [0494-target-sum](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0494-target-sum) |
+| [1359-circular-permutation-in-binary-representation](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1359-circular-permutation-in-binary-representation) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
