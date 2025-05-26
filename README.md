@@ -221,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0242-valid-anagram) |
+| [0355-design-twitter](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0355-design-twitter) |
 | [0389-find-the-difference](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0389-find-the-difference) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0432-all-oone-data-structure](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0432-all-oone-data-structure) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0355-design-twitter](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0355-design-twitter) |
 | [0432-all-oone-data-structure](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0432-all-oone-data-structure) |
 | [0859-design-circular-deque](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0859-design-circular-deque) |
 ## Math
@@ -939,6 +941,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0304-range-sum-query-2d-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0307-range-sum-query-mutable) |
+| [0355-design-twitter](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0355-design-twitter) |
 | [0432-all-oone-data-structure](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0432-all-oone-data-structure) |
 | [0729-my-calendar-i](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0731-my-calendar-ii) |
@@ -1137,6 +1140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0215-kth-largest-element-in-an-array) |
+| [0355-design-twitter](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0355-design-twitter) |
 | [0407-trapping-rain-water-ii](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0407-trapping-rain-water-ii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0744-network-delay-time](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0744-network-delay-time) |
