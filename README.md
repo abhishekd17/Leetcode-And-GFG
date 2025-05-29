@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1628-count-submatrices-with-all-ones](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1628-count-submatrices-with-all-ones) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1656-count-good-triplets](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1656-count-good-triplets) |
@@ -500,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1675-magnetic-force-between-two-balls](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1675-magnetic-force-between-two-balls) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
@@ -624,6 +626,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1675-magnetic-force-between-two-balls](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1675-magnetic-force-between-two-balls) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1988-minimize-maximum-pair-sum-in-array) |
@@ -749,6 +752,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1129-longest-string-chain](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1129-longest-string-chain) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1923-sentence-similarity-iii](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1923-sentence-similarity-iii) |
 | [1972-rotating-the-box](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1972-rotating-the-box) |
