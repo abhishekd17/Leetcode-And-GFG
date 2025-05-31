@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0882-peak-index-in-a-mountain-array](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [0945-snakes-and-ladders](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0945-snakes-and-ladders) |
 | [0948-sort-an-array](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0948-sort-an-array) |
 | [0952-word-subsets](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0952-word-subsets) |
 | [0986-largest-time-for-given-digits](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0986-largest-time-for-given-digits) |
@@ -923,6 +924,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0833-bus-routes](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0833-bus-routes) |
 | [0854-making-a-large-island](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0854-making-a-large-island) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
+| [0945-snakes-and-ladders](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0945-snakes-and-ladders) |
 | [1005-univalued-binary-tree](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1005-univalued-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1035-cousins-in-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -1239,6 +1241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-sliding-puzzle](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0787-sliding-puzzle) |
 | [0794-swim-in-rising-water](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0854-making-a-large-island) |
+| [0945-snakes-and-ladders](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0945-snakes-and-ladders) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
