@@ -440,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3634-find-mirror-score-of-a-string](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3634-find-mirror-score-of-a-string) |
 | [3637-count-number-of-balanced-permutations](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3637-count-number-of-balanced-permutations) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3805-maximize-active-section-with-trade-i](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3805-maximize-active-section-with-trade-i) |
 ## Sliding Window
 |  |
@@ -775,6 +776,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3195-separate-black-and-white-balls](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3195-separate-black-and-white-balls) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## String Matching
 |  |
 | ------- |
@@ -859,6 +861,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2998-count-symmetric-integers](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2998-count-symmetric-integers) |
 | [3201-distribute-candies-among-children-ii](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3201-distribute-candies-among-children-ii) |
 | [3548-find-the-count-of-good-integers](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3548-find-the-count-of-good-integers) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3702-maximum-subarray-with-equal-products) |
 | [3805-maximize-active-section-with-trade-i](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3805-maximize-active-section-with-trade-i) |
 ## Number Theory
