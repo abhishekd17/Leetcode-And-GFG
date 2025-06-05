@@ -380,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-word-subsets](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0952-word-subsets) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0986-largest-time-for-given-digits](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0986-largest-time-for-given-digits) |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1129-longest-string-chain](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1170-shortest-common-supersequence) |
@@ -1230,6 +1231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0854-making-a-large-island) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [2121-find-if-path-exists-in-graph](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2121-find-if-path-exists-in-graph) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
