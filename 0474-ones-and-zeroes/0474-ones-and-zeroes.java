@@ -1,5 +1,27 @@
 class Solution {
     public int findMaxForm(String[] strs, int m, int n) {
+        int x = strs.length;
+        int dp[][] = new int[m + 1][n + 1];
+        
+        for(String s : strs){
+            int zeros = 0 , ones = 0;
+            for(int i = 0 ; i < s.length() ; i++){
+                if(s.charAt(i) == '0') zeros++;
+                else ones++;
+            }
+
+            for(int i = m ; i >= zeros ; i--){
+                for(int j = n ; j >= ones ; j--){
+                    dp[i][j] = Math.max(dp[i][j] ,1 + dp[i - zeros][j - ones]);
+                }
+            }
+        }
+        return dp[m][n];
+    }
+}
+
+/*class Solution {
+    public int findMaxForm(String[] strs, int m, int n) {
         int freq[][] = new int[strs.length][2];
         int j = 0;
         for(String s : strs){
@@ -26,4 +48,4 @@ class Solution {
         }
         return dp[idx][m][n] = Math.max(not_pick , pick);
     }
-}
+} */
