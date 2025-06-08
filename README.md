@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1121-partition-array-for-maximum-sum](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1121-partition-array-for-maximum-sum) |
 | [1127-last-stone-weight](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1127-last-stone-weight) |
 | [1129-longest-string-chain](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1129-longest-string-chain) |
+| [1130-last-stone-weight-ii](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1130-last-stone-weight-ii) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1256-rank-transform-of-an-array](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1256-rank-transform-of-an-array) |
@@ -706,6 +707,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1121-partition-array-for-maximum-sum](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1121-partition-array-for-maximum-sum) |
 | [1129-longest-string-chain](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1129-longest-string-chain) |
+| [1130-last-stone-weight-ii](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1130-last-stone-weight-ii) |
 | [1170-shortest-common-supersequence](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1250-longest-common-subsequence) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1402-count-square-submatrices-with-all-ones) |
