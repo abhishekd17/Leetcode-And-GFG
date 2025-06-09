@@ -1,4 +1,40 @@
 class Solution {
+    public double knightProbability(int n, int k, int row, int column) {
+        double[][][] dp = new double[k + 1][n][n];
+
+        for (int i = 0; i < n; i++) {
+            for (int j = 0; j < n; j++) {
+                dp[0][i][j] = 1.0;
+            }
+        }
+
+        int[][] directions = {
+            {-2, +1}, {-1, +2}, {+1, +2}, {+2, +1},
+            {-2, -1}, {-1, -2}, {+1, -2}, {+2, -1}
+        };
+
+        for (int moves = 1; moves <= k; moves++) {
+            for (int i = 0; i < n; i++) {
+                for (int j = 0; j < n; j++) {
+                    double prob = 0.0;
+                    for (int[] dir : directions) {
+                        int ni = i + dir[0];
+                        int nj = j + dir[1];
+                        if (ni >= 0 && nj >= 0 && ni < n && nj < n) {
+                            prob += dp[moves - 1][ni][nj];
+                        }
+                    }
+                    dp[moves][i][j] = prob / 8.0;
+                }
+            }
+        }
+
+        return dp[k][row][column];
+    }
+}
+
+
+/*class Solution {
     public double knightProbability(int n, int k, int r, int c) {
         double dp[][][] = new double[k + 1][n][n];
         for(double a[][] : dp) for(double b[] : a) Arrays.fill(b , -1);
@@ -23,4 +59,4 @@ class Solution {
 
         return dp[k][r][j] = cnt / 8.0;
     }
-}
+} */
