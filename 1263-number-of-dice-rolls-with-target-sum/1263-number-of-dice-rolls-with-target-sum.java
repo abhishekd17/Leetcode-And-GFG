@@ -1,5 +1,24 @@
 class Solution {
     private int mod = 1000000007;
+    public int numRollsToTarget(int n, int K, int target) {
+        int dp[][] = new int[n + 1][target + 1];
+        dp[0][0] = 1;
+
+        for(int d = 1 ; d <= n ; d++){
+            for(int sum = 1; sum <= target; sum++){
+                for(int k = 1 ; k <= K ; k++){
+                    if(sum - k >= 0){
+                        dp[d][sum] = (dp[d][sum] + dp[d - 1][sum - k]) % mod;
+                    }
+                }
+            }
+        }
+        return dp[n][target] % mod;
+    }
+}
+
+/*class Solution {
+    private int mod = 1000000007;
     
     public int numRollsToTarget(int n, int k, int target) {
         int dp[][] = new int[n + 1][target + 1];
@@ -16,4 +35,4 @@ class Solution {
         }
         return dp[n][target] = cnt % mod;
     }
-}
+} */
