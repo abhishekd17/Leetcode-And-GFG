@@ -3,14 +3,13 @@ class Solution {
         int n = grid.length;
         int m = grid[0].length;
 
-        boolean vis[][] = new boolean[n][m];
 
         int numberOfIslands = 0;
         
         for(int i = 0 ; i < n ;i++){
             for(int j = 0 ; j < m ; j++){
-                if(grid[i][j] == '1' && vis[i][j] == false){
-                    helper(grid , i , j , vis);
+                if(grid[i][j] == '1'){
+                    helper(grid , i , j);
                     numberOfIslands++;
                 }
             }
@@ -18,17 +17,17 @@ class Solution {
         return numberOfIslands;
     }
 
-    private void helper(char[][] grid , int i , int j , boolean[][] vis){
+    private void helper(char[][] grid , int i , int j){
         int n = grid.length;
         int m = grid[0].length;
 
-        if(i < 0 || i >= n || j < 0 || j >= m || vis[i][j] == true || grid[i][j] == '0') return;
-        vis[i][j] = true;
+        if(i < 0 || i >= n || j < 0 || j >= m || grid[i][j] == '0') return;
+        grid[i][j] = '0';
 
-        helper(grid , i - 1 , j , vis);
-        helper(grid , i , j + 1, vis);
-        helper(grid , i + 1 , j , vis);
-        helper(grid , i , j - 1, vis);
+        helper(grid , i - 1 , j );
+        helper(grid , i , j + 1);
+        helper(grid , i + 1 , j);
+        helper(grid , i , j - 1);
 
     }
 }
