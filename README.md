@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0179-largest-number) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0200-number-of-islands](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0215-kth-largest-element-in-an-array) |
@@ -835,6 +836,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0113-path-sum-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0200-number-of-islands](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0200-number-of-islands) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0226-invert-binary-tree](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0226-invert-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0386-lexicographical-numbers) |
@@ -945,6 +947,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0127-word-ladder](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0127-word-ladder) |
+| [0200-number-of-islands](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0226-invert-binary-tree) |
 | [0279-perfect-squares](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0322-coin-change) |
@@ -1258,6 +1261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0684-redundant-connection) |
 | [0721-accounts-merge](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0721-accounts-merge) |
@@ -1279,6 +1283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0085-maximal-rectangle) |
+| [0200-number-of-islands](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0221-maximal-square) |
 | [0304-range-sum-query-2d-immutable](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0304-range-sum-query-2d-immutable) |
 | [0407-trapping-rain-water-ii](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0407-trapping-rain-water-ii) |
