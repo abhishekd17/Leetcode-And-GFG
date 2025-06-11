@@ -226,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0073-set-matrix-zeroes) |
+| [0126-word-ladder-ii](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0127-word-ladder) |
 | [0202-happy-number](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0205-isomorphic-strings) |
@@ -370,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0115-distinct-subsequences) |
+| [0126-word-ladder-ii](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0127-word-ladder) |
 | [0132-palindrome-partitioning-ii](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0132-palindrome-partitioning-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0151-reverse-words-in-a-string) |
@@ -949,6 +951,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0126-word-ladder-ii](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0127-word-ladder) |
 | [0200-number-of-islands](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0226-invert-binary-tree) |
@@ -1316,6 +1319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0113-path-sum-ii) |
+| [0126-word-ladder-ii](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0126-word-ladder-ii) |
 | [0494-target-sum](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0494-target-sum) |
 | [1359-circular-permutation-in-binary-representation](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1359-circular-permutation-in-binary-representation) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
