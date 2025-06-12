@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0721-accounts-merge) |
 | [0729-my-calendar-i](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0731-my-calendar-ii) |
+| [0741-cherry-pickup](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0741-cherry-pickup) |
 | [0780-max-chunks-to-make-sorted](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0787-sliding-puzzle) |
 | [0794-swim-in-rising-water](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0794-swim-in-rising-water) |
@@ -717,6 +718,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0688-knight-probability-in-chessboard](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0688-knight-probability-in-chessboard) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0741-cherry-pickup](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0741-cherry-pickup) |
 | [0806-domino-and-tromino-tiling](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0806-domino-and-tromino-tiling) |
 | [0826-soup-servings](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0826-soup-servings) |
 | [0875-longest-mountain-in-array](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0875-longest-mountain-in-array) |
@@ -1298,6 +1300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0304-range-sum-query-2d-immutable) |
 | [0407-trapping-rain-water-ii](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0407-trapping-rain-water-ii) |
 | [0463-island-perimeter](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0463-island-perimeter) |
+| [0741-cherry-pickup](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0741-cherry-pickup) |
 | [0787-sliding-puzzle](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0787-sliding-puzzle) |
 | [0794-swim-in-rising-water](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0854-making-a-large-island) |
