@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2089-maximum-matrix-sum](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2089-maximum-matrix-sum) |
 | [2107-find-unique-binary-string](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2107-find-unique-binary-string) |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2145-grid-game](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2145-grid-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
