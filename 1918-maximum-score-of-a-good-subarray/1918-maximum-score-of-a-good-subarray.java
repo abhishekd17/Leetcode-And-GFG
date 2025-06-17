@@ -1,6 +1,23 @@
 class Solution {
     public int maximumScore(int[] nums, int k) {
         int n = nums.length;
+        int ans = nums[k] , mini = nums[k];
+        int l = k , r = k;
+
+        while(l > 0 || r < n - 1){
+            if(l == 0 || (r < n - 1 && nums[r + 1] > nums[l - 1])) r++;
+            else l--;
+            mini = Math.min(mini , Math.min(nums[l] , nums[r]));
+            ans = Math.max(ans , mini * (r - l + 1));
+        }
+        return ans;
+    }
+}
+
+
+/*class Solution {
+    public int maximumScore(int[] nums, int k) {
+        int n = nums.length;
         int nls[] = new int[n];
         int nsr[] = new int[n];
         Stack<Integer> st = new Stack<>();
@@ -26,7 +43,7 @@ class Solution {
         }
         return ans;
     }
-}
+}*/
 
 
 /*class Solution {
