@@ -1,5 +1,59 @@
 class Solution {
     public int maximalRectangle(char[][] matrix) {
+        if (matrix.length == 0) return 0;
+
+        int cols = matrix[0].length;
+        int rows = matrix.length;
+
+        int[] height = new int[cols];     // height of '1's
+        int[] left = new int[cols];       // left boundary
+        int[] right = new int[cols];      // right boundary
+        Arrays.fill(right, cols);         // initialize right to cols
+
+        int maxArea = 0;
+
+        for (int i = 0; i < rows; i++) {
+            int currLeft = 0, currRight = cols;
+
+            // Update height
+            for (int j = 0; j < cols; j++) {
+                if (matrix[i][j] == '1') height[j]++;
+                else height[j] = 0;
+            }
+
+            // Update left
+            for (int j = 0; j < cols; j++) {
+                if (matrix[i][j] == '1')
+                    left[j] = Math.max(left[j], currLeft);
+                else {
+                    left[j] = 0;
+                    currLeft = j + 1;
+                }
+            }
+
+            // Update right
+            for (int j = cols - 1; j >= 0; j--) {
+                if (matrix[i][j] == '1')
+                    right[j] = Math.min(right[j], currRight);
+                else {
+                    right[j] = cols;
+                    currRight = j;
+                }
+            }
+
+            // Calculate area
+            for (int j = 0; j < cols; j++) {
+                int area = (right[j] - left[j]) * height[j];
+                maxArea = Math.max(maxArea, area);
+            }
+        }
+
+        return maxArea;
+    }
+}
+
+/*class Solution {
+    public int maximalRectangle(char[][] matrix) {
         int n = matrix.length;
         int m = matrix[0].length;
         int height[] = new int[m];
@@ -33,7 +87,7 @@ class Solution {
         return maxans;
     }
 }
-
+*/
 
 /*class Solution {
     public int maximalRectangle(char[][] matrix) {
