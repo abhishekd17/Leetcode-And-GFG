@@ -893,6 +893,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0669-trim-a-binary-search-tree](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0669-trim-a-binary-search-tree) |
 | [0684-redundant-connection](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0684-redundant-connection) |
 | [0721-accounts-merge](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0721-accounts-merge) |
 | [0744-network-delay-time](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0744-network-delay-time) |
@@ -1172,6 +1173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0617-merge-two-binary-trees](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0669-trim-a-binary-search-tree](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0669-trim-a-binary-search-tree) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0799-minimum-distance-between-bst-nodes) |
@@ -1198,6 +1200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0669-trim-a-binary-search-tree](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0669-trim-a-binary-search-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0799-minimum-distance-between-bst-nodes) |
 ## Binary Tree
 |  |
@@ -1213,6 +1216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0617-merge-two-binary-trees](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0669-trim-a-binary-search-tree](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0669-trim-a-binary-search-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1005-univalued-binary-tree](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1005-univalued-binary-tree) |
