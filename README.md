@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3702-maximum-subarray-with-equal-products](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3702-maximum-subarray-with-equal-products) |
 | [3715-maximum-coins-from-k-consecutive-bags](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3715-maximum-coins-from-k-consecutive-bags) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
+| [3892-best-time-to-buy-and-sell-stock-v](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3892-best-time-to-buy-and-sell-stock-v) |
 ## Hash Table
 |  |
 | ------- |
@@ -814,6 +815,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3637-count-number-of-balanced-permutations) |
+| [3892-best-time-to-buy-and-sell-stock-v](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3892-best-time-to-buy-and-sell-stock-v) |
 ## Memoization
 |  |
 | ------- |
