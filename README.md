@@ -490,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3595-rearrange-k-substrings-to-form-target-string](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3595-rearrange-k-substrings-to-form-target-string) |
 | [3617-find-the-original-typed-string-i](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3617-find-the-original-typed-string-i) |
+| [3618-find-the-original-typed-string-ii](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3618-find-the-original-typed-string-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3634-find-mirror-score-of-a-string](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3634-find-mirror-score-of-a-string) |
@@ -821,6 +822,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3618-find-the-original-typed-string-ii](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3618-find-the-original-typed-string-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3637-count-number-of-balanced-permutations) |
@@ -1128,6 +1130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2691-count-vowel-strings-in-ranges](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3427-special-array-ii](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3427-special-array-ii) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3618-find-the-original-typed-string-ii](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3618-find-the-original-typed-string-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3643-zero-array-transformation-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3647-zero-array-transformation-iii) |
 | [3715-maximum-coins-from-k-consecutive-bags](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3715-maximum-coins-from-k-consecutive-bags) |
