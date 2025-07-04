@@ -34,22 +34,21 @@ class Solution {
         return mini;
     }
 
-    private void helper(HashMap<Integer , List<Integer>> map , int nums[] , int offset , int n){
-        for(int i = 1 ; i <= Math.pow(2 , n ) - 1 ; i++){
-            String binary = Integer.toBinaryString(i);
-            int sum = 0;
-            int setBits = 0;
-            for(int j = binary.length() - 1 , ind = nums.length - 1; j >= 0 ; j-- , ind--){
-                if(binary.charAt(j) == '1'){
-                    setBits++;
-                    sum += nums[ind - offset];
-                }
+    private void helper(HashMap<Integer, List<Integer>> map, int[] nums, int offset, int n) {
+    int size = 1 << n;  // 2^n subsets
+    for (int mask = 1; mask < size; mask++) {
+        int sum = 0;
+        int count = 0;
+        for (int i = 0; i < n; i++) {
+            if ((mask & (1 << i)) != 0) {
+                sum += nums[offset + i];  // correctly access elements from left or right half
+                count++;
             }
-
-            if(!map.containsKey(setBits)) map.put(setBits , new ArrayList<>());
-            map.get(setBits).add(sum);
         }
+        map.computeIfAbsent(count, k -> new ArrayList<>()).add(sum);
     }
+}
+
 }
 
 
