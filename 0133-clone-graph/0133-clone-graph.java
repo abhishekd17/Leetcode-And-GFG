@@ -20,6 +20,30 @@ class Node {
 
 class Solution {
     public Node cloneGraph(Node node) {
+        if(node == null) return null;
+        Map<Node , Node> vis = new HashMap<>();
+        Queue<Node> q = new LinkedList();
+        q.offer(node);
+        Node clone = new Node(node.val);
+        vis.put(node , clone);
+
+        while(!q.isEmpty()){
+            Node x = q.poll();
+            for(Node nbr : x.neighbors){
+                if(!vis.containsKey(nbr)){
+                    vis.put(nbr, new Node(nbr.val));
+                    q.offer(nbr);
+                }
+                vis.get(x).neighbors.add(vis.get(nbr));
+            }
+        }
+        return clone;
+    }
+}
+/*
+
+class Solution {
+    public Node cloneGraph(Node node) {
         Map<Integer , List<Integer>> map = ser(node);
         Node newNode = deser(map , node);
         return newNode;
@@ -61,4 +85,4 @@ class Solution {
         }
         return mpp.get(x.val);
     }
-}
+}*/
