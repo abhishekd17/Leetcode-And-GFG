@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2265-partition-array-according-to-given-pivot](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2280-count-good-triplets-in-an-array) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2308-divide-array-into-equal-pairs](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2308-divide-array-into-equal-pairs) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2300-construct-string-with-repeat-limit](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2300-construct-string-with-repeat-limit) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2308-divide-array-into-equal-pairs](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2308-divide-array-into-equal-pairs) |
 | [2434-design-a-number-container-system](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2448-count-number-of-bad-pairs) |
@@ -1245,6 +1247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2175-count-nodes-with-the-highest-score](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2175-count-nodes-with-the-highest-score) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -1288,6 +1291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2175-count-nodes-with-the-highest-score](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2175-count-nodes-with-the-highest-score) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
