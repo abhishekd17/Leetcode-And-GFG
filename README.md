@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3702-maximum-subarray-with-equal-products](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3702-maximum-subarray-with-equal-products) |
 | [3715-maximum-coins-from-k-consecutive-bags](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3715-maximum-coins-from-k-consecutive-bags) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
+| [3863-power-grid-maintenance](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3863-power-grid-maintenance) |
 | [3892-best-time-to-buy-and-sell-stock-v](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3892-best-time-to-buy-and-sell-stock-v) |
 ## Hash Table
 |  |
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3863-power-grid-maintenance](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3863-power-grid-maintenance) |
 ## Linked List
 |  |
 | ------- |
@@ -657,6 +659,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2434-design-a-number-container-system](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2434-design-a-number-container-system) |
 | [2868-continuous-subarrays](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2868-continuous-subarrays) |
 | [3000-minimum-absolute-difference-between-elements-with-constraint](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3000-minimum-absolute-difference-between-elements-with-constraint) |
+| [3863-power-grid-maintenance](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3863-power-grid-maintenance) |
 ## Greedy
 |  |
 | ------- |
@@ -978,6 +981,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
+| [3863-power-grid-maintenance](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3863-power-grid-maintenance) |
 ## Enumeration
 |  |
 | ------- |
@@ -1104,6 +1108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
+| [3863-power-grid-maintenance](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3863-power-grid-maintenance) |
 ## Design
 |  |
 | ------- |
@@ -1336,6 +1341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
+| [3863-power-grid-maintenance](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3863-power-grid-maintenance) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -1373,6 +1379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3647-zero-array-transformation-iii](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3647-zero-array-transformation-iii) |
+| [3863-power-grid-maintenance](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3863-power-grid-maintenance) |
 ## Shortest Path
 |  |
 | ------- |
@@ -1411,6 +1418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2914-find-the-safest-path-in-a-grid](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
+| [3863-power-grid-maintenance](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3863-power-grid-maintenance) |
 ## Matrix
 |  |
 | ------- |
