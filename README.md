@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3702-maximum-subarray-with-equal-products) |
 | [3715-maximum-coins-from-k-consecutive-bags](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3715-maximum-coins-from-k-consecutive-bags) |
+| [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3863-power-grid-maintenance](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3863-power-grid-maintenance) |
@@ -716,6 +717,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3647-zero-array-transformation-iii](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3647-zero-array-transformation-iii) |
 | [3715-maximum-coins-from-k-consecutive-bags](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3715-maximum-coins-from-k-consecutive-bags) |
+| [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Sorting
 |  |
@@ -1004,6 +1006,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3548-find-the-count-of-good-integers](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3548-find-the-count-of-good-integers) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3702-maximum-subarray-with-equal-products) |
+| [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3805-maximize-active-section-with-trade-i](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3805-maximize-active-section-with-trade-i) |
 ## Number Theory
