@@ -50,7 +50,7 @@ class Solution {
 
         int maxi = 0, maxCount = 0;
         for (int i = 0; i < n; i++) {
-            if (freq[i] > maxCount || (freq[i] == maxCount && i < maxi)) {
+            if (freq[i] > maxCount ) {
                 maxCount = freq[i];
                 maxi = i;
             }
