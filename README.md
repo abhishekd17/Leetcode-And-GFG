@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0001-two-sum) |
+| [0016-3sum-closest](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0073-set-matrix-zeroes) |
@@ -738,6 +739,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0016-3sum-closest) |
 | [0179-largest-number](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0217-contains-duplicate) |
@@ -901,6 +903,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
