@@ -19,7 +19,7 @@ class Solution {
                     if(j >= 2){
                         dp[i][j] = dp[i][j - 2];
                         if(s.charAt(i - 1) == p.charAt(j - 2) || p.charAt(j - 2) == '.'){
-                            dp[i][j] = dp[i][j] || dp[i - 1][j];
+                            dp[i][j] = dp[i][j - 2] || dp[i - 1][j];
                         }
                     }
                 }
