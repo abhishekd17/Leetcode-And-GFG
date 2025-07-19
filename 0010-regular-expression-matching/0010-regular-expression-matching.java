@@ -1,40 +1,30 @@
 class Solution {
-    int[][] dp;
-
     public boolean isMatch(String s, String p) {
-        dp = new int[s.length()][p.length()];
-        for (int[] row : dp) Arrays.fill(row, -1);
-        return helper(s, p, s.length() - 1, p.length() - 1);
-    }
-
-    private boolean helper(String s, String p, int i, int j) {
-        // base cases
-        if (i < 0 && j < 0) return true;
-        if (j < 0) return i < 0;
-
-        if (i < 0) {
-            if (p.charAt(j) == '*') return helper(s, p, i, j - 2);
-            return false;
-        }
-
-        if (dp[i][j] != -1) return dp[i][j] == 1;
-
-        boolean match = false;
-
-        // Case 1: '*' handling
-        if (p.charAt(j) == '*') {
-            if (j >= 1 && (s.charAt(i) == p.charAt(j - 1) || p.charAt(j - 1) == '.')) {
-                match = helper(s, p, i, j - 2) || helper(s, p, i - 1, j);
-            } else {
-                match = helper(s, p, i, j - 2);
+        int n = s.length();
+        int m = p.length();
+        boolean dp[][] = new boolean[n + 1][m + 1];
+        dp[0][0] = true;
+        for(int i = 1 ; i <= m ; i++){
+            if(p.charAt(i - 1) == '*'){
+                if(i >= 2) dp[0][i] = dp[0][i - 2];
             }
         }
-        // Case 2: normal char or '.'
-        else if (s.charAt(i) == p.charAt(j) || p.charAt(j) == '.') {
-            match = helper(s, p, i - 1, j - 1);
-        }
 
-        dp[i][j] = match ? 1 : 0;
-        return match;
+        for(int i = 1 ; i <= n ; i++){
+            for(int j = 1 ; j <= m ;j++){
+                if(p.charAt(j - 1) == s.charAt(i -1) || p.charAt(j - 1) == '.'){
+                    dp[i][j] = dp[i - 1][j - 1];
+                }
+                else if(p.charAt(j - 1) == '*'){
+                    if(j >= 2){
+                        dp[i][j] = dp[i][j - 2];
+                        if(s.charAt(i - 1) == p.charAt(j - 2) || p.charAt(j - 2) == '.'){
+                            dp[i][j] = dp[i][j] || dp[i - 1][j];
+                        }
+                    }
+                }
+            }
+        }
+        return dp[n][m];
     }
 }
