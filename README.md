@@ -410,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0002-add-two-numbers) |
+| [0010-regular-expression-matching](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0044-wildcard-matching) |
 | [0241-different-ways-to-add-parentheses](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0241-different-ways-to-add-parentheses) |
 | [1197-parsing-a-boolean-expression](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1197-parsing-a-boolean-expression) |
@@ -422,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0006-zigzag-conversion) |
+| [0010-regular-expression-matching](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0010-regular-expression-matching) |
 | [0014-longest-common-prefix](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0038-count-and-say) |
@@ -794,6 +796,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0053-maximum-subarray) |
 | [0072-edit-distance](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0072-edit-distance) |
