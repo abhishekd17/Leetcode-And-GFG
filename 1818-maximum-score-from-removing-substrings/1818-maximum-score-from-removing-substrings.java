@@ -1,43 +1,76 @@
 class Solution {
     public int maximumGain(String s, int x, int y) {
-        int res = 0;
-        String top, bot;
-        int top_score, bot_score;
-
-        if (y > x) {
-            top = "ba";
-            top_score = y;
-            bot = "ab";
-            bot_score = x;
-        } else {
-            top = "ab";
-            top_score = x;
-            bot = "ba";
-            bot_score = y;
+        int score = 0;
+        // ab - > x
+        // ba - > y
+        int ss = 0;
+        char c1 = 'a' , c2 = 'b';
+        Stack<Character> st = new Stack<>();
+        if(x > y){
+            c1 = 'a';
+            c2 = 'b';
+            ss = x;
+        }else{
+            c1 = 'b';
+            c2 = 'a';
+            ss = y;
         }
 
-        // Removing first top substrings cause they give more points
-        StringBuilder stack = new StringBuilder();
-        for (char ch : s.toCharArray()) { // Changed 'char' to 'ch'
-            if (ch == top.charAt(1) && stack.length() > 0 && stack.charAt(stack.length() - 1) == top.charAt(0)) {
-                res += top_score;
-                stack.setLength(stack.length() - 1);
-            } else {
-                stack.append(ch);
+        for(char c : s.toCharArray()){
+            if(!st.isEmpty() && c == c2 && st.peek() == c1 ){
+                st.pop();
+                score += ss;
             }
+            else st.push(c);
         }
 
-        // Removing bot substrings cause they give less or equal amount of scores
-        StringBuilder new_stack = new StringBuilder();
-        for (char ch : stack.toString().toCharArray()) { // Changed 'char' to 'ch'
-            if (ch == bot.charAt(1) && new_stack.length() > 0 && new_stack.charAt(new_stack.length() - 1) == bot.charAt(0)) {
-                res += bot_score;
-                new_stack.setLength(new_stack.length() - 1);
-            } else {
-                new_stack.append(ch);
+        StringBuilder sb = new StringBuilder();
+        while (!st.isEmpty()) {
+            sb.append(st.pop());
+        }
+        sb.reverse();
+
+        if(x > y){
+            c1 = 'b';
+            c2 = 'a';
+            ss = y;
+        }else{
+            c1 = 'a';
+            c2 = 'b';
+            ss = x;
+        }
+        String sbb = sb.toString();
+        for(char c : sbb.toCharArray()){
+            if(!st.isEmpty() && c == c2 && st.peek() == c1){
+                st.pop();
+                score += ss;
             }
+            else st.push(c);
         }
-
-        return res;
+        return score;
     }
 }
+
+// cdbcbbaaabab
+// cdbcbbaaab 5
+// cdbcbaab   10
+// cdbcab     15
+// cdbc       19
+
+// c
+// d
+// b
+// c
+// a
+// b
+// 
+
+
+// aabbaaxybbaabb 
+// abaaxybbaabb 5
+// aaxybbaabb   10
+// aaxybbab     15
+// aaxybb       20
+
+//a a x y b b 
+// 5 + 5 + 5 + 5
