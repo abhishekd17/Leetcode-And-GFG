@@ -1,71 +1,63 @@
-import java.util.*;
-
 class Solution {
-    private int[] subtreeXor;
-    private Set<Integer>[] descendants;
-    private List<Integer>[] graph;
+    private void dfs(int node , int parent ,List<List<Integer>> list, int nums[], int inTime[] , int outTime[] , int timer[] , int subTreeXor[]){
+        inTime[node] = timer[0]++ ;
 
-    private void dfs(int node, int parent, int[] nums) {
-        subtreeXor[node] = nums[node];
-        descendants[node].add(node);
+        subTreeXor[node]  = nums[node];
 
-        for (int neighbor : graph[node]) {
-            if (neighbor != parent) {
-                dfs(neighbor, node, nums);
-                subtreeXor[node] ^= subtreeXor[neighbor];
-                descendants[node].addAll(descendants[neighbor]);
+        for(int nbr : list.get(node)){
+            if(parent != nbr){
+                dfs(nbr , node , list , nums , inTime , outTime , timer , subTreeXor);
+                subTreeXor[node] ^= subTreeXor[nbr];
             }
         }
-    }
 
+        outTime[node] = timer[0]++ ;
+    }
+    private boolean isAncestor(int u , int v , int inTime[] , int outTime[]){
+        return inTime[u] < inTime[v] && outTime[v] < outTime[u];
+    }
+    private int helper(int a , int b , int c){
+        int x = Math.max(a , Math.max(b , c));
+        int y = Math.min(a , Math.min(b , c));
+        return x - y;
+    }
     public int minimumScore(int[] nums, int[][] edges) {
         int n = nums.length;
-        graph = new ArrayList[n];
-        for (int i = 0; i < n; i++) {
-            graph[i] = new ArrayList<>();
-        }
-        for (int[] edge : edges) {
-            graph[edge[0]].add(edge[1]);
-            graph[edge[1]].add(edge[0]);
-        }
-
-        subtreeXor = new int[n];
-        descendants = new HashSet[n];
-        for (int i = 0; i < n; i++) {
-            descendants[i] = new HashSet<>();
+        int m = edges.length;
+        List<List<Integer>> list = new ArrayList<>();
+        for(int i = 0 ; i < n ; i++) list.add(new ArrayList<>());
+        for(int edge[] : edges){
+            list.get(edge[0]).add(edge[1]);
+            list.get(edge[1]).add(edge[0]);
         }
 
-        dfs(0, -1, nums);
+        int subTreeXor[] = new int[n];
+        int inTime[] = new int[n];
+        int outTime[] = new int[n];
 
-        int totalXor = subtreeXor[0];
-        int minScore = Integer.MAX_VALUE;
-
-        for (int i = 1; i < n; i++) {
-            for (int j = i + 1; j < n; j++) {
-                int xorI = subtreeXor[i];
-                int xorJ = subtreeXor[j];
-                int val1, val2, val3;
-
-                if (descendants[i].contains(j)) { // j is in i's subtree
-                    val1 = xorJ;
-                    val2 = xorI ^ xorJ;
-                    val3 = totalXor ^ xorI;
-                } else if (descendants[j].contains(i)) { // i is in j's subtree
-                    val1 = xorI;
-                    val2 = xorJ ^ xorI;
-                    val3 = totalXor ^ xorJ;
-                } else { // Independent subtrees
-                    val1 = xorI;
-                    val2 = xorJ;
-                    val3 = totalXor ^ xorI ^ xorJ;
+        int timer[] = {0};
+        dfs(0 , -1 , list , nums , inTime , outTime , timer , subTreeXor);
+        int ans = Integer.MAX_VALUE;
+        for(int u = 1 ; u < n ; u++){
+            for(int v = u + 1 ; v < n ; v++){
+                int xor1 , xor2 , xor3;
+                if(isAncestor(u , v , inTime , outTime)){
+                    xor1 = subTreeXor[v];
+                    xor2 = subTreeXor[u] ^ subTreeXor[v];
+                    xor3 = subTreeXor[0] ^ xor1 ^ xor2;
+                }else if(isAncestor(v , u , inTime , outTime)){
+                    xor1 = subTreeXor[u];
+                    xor2 = subTreeXor[v] ^ subTreeXor[u];
+                    xor3 = subTreeXor[0] ^ xor1 ^ xor2;
+                }else{
+                    xor1 = subTreeXor[u];
+                    xor2 = subTreeXor[v];
+                    xor3 = subTreeXor[0] ^ xor1 ^ xor2;
                 }
-                
-                int maxVal = Math.max(val1, Math.max(val2, val3));
-                int minVal = Math.min(val1, Math.min(val2, val3));
-                minScore = Math.min(minScore, maxVal - minVal);
+
+                ans = Math.min(ans , helper(xor1 , xor2 , xor3));
             }
         }
-
-        return minScore;
+        return ans;
     }
 }
