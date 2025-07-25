@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2232-adding-spaces-to-a-string](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2232-adding-spaces-to-a-string) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2249-count-the-hidden-sequences](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2249-count-the-hidden-sequences) |
+| [2256-count-words-obtained-after-adding-a-letter](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2256-count-words-obtained-after-adding-a-letter) |
 | [2262-solving-questions-with-brainpower](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2262-solving-questions-with-brainpower) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2256-count-words-obtained-after-adding-a-letter](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2256-count-words-obtained-after-adding-a-letter) |
 | [2300-construct-string-with-repeat-limit](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2300-construct-string-with-repeat-limit) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2308-divide-array-into-equal-pairs](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2308-divide-array-into-equal-pairs) |
@@ -502,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2232-adding-spaces-to-a-string](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2232-adding-spaces-to-a-string) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2256-count-words-obtained-after-adding-a-letter](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2256-count-words-obtained-after-adding-a-letter) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2300-construct-string-with-repeat-limit](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2300-construct-string-with-repeat-limit) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
@@ -782,6 +785,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2164-two-best-non-overlapping-events](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2256-count-words-obtained-after-adding-a-letter](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2256-count-words-obtained-after-adding-a-letter) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2479-meeting-rooms-iii](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2479-meeting-rooms-iii) |
@@ -1246,6 +1250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2256-count-words-obtained-after-adding-a-letter](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2256-count-words-obtained-after-adding-a-letter) |
 | [2308-divide-array-into-equal-pairs](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2308-divide-array-into-equal-pairs) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2478-longest-nice-subarray](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2478-longest-nice-subarray) |
