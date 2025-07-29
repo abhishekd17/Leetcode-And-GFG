@@ -998,6 +998,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0200-number-of-islands) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0226-invert-binary-tree](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0226-invert-binary-tree) |
+| [0310-minimum-height-trees](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0310-minimum-height-trees) |
 | [0386-lexicographical-numbers](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0386-lexicographical-numbers) |
 | [0404-sum-of-left-leaves](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0463-island-perimeter) |
@@ -1125,6 +1126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0226-invert-binary-tree) |
 | [0279-perfect-squares](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0279-perfect-squares) |
+| [0310-minimum-height-trees](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0310-minimum-height-trees) |
 | [0322-coin-change](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0322-coin-change) |
 | [0404-sum-of-left-leaves](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0404-sum-of-left-leaves) |
 | [0407-trapping-rain-water-ii](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0407-trapping-rain-water-ii) |
@@ -1384,6 +1386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0133-clone-graph) |
+| [0310-minimum-height-trees](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0310-minimum-height-trees) |
 | [0547-number-of-provinces](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0684-redundant-connection) |
 | [0744-network-delay-time](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0744-network-delay-time) |
@@ -1463,6 +1466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Topological Sort
 |  |
 | ------- |
+| [0310-minimum-height-trees](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0310-minimum-height-trees) |
 | [0820-find-eventual-safe-states](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0820-find-eventual-safe-states) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2090-number-of-ways-to-arrive-at-destination) |
