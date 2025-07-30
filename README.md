@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0368-largest-divisible-subset](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0368-largest-divisible-subset) |
 | [0377-combination-sum-iv](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0377-combination-sum-iv) |
 | [0403-frog-jump](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0403-frog-jump) |
@@ -842,6 +843,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0368-largest-divisible-subset](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0368-largest-divisible-subset) |
 | [0377-combination-sum-iv](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0377-combination-sum-iv) |
 | [0403-frog-jump](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0403-frog-jump) |
@@ -909,6 +911,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0241-different-ways-to-add-parentheses) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
@@ -1004,6 +1007,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0211-design-add-and-search-words-data-structure](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0226-invert-binary-tree](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0226-invert-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0310-minimum-height-trees) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0386-lexicographical-numbers](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0386-lexicographical-numbers) |
 | [0404-sum-of-left-leaves](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0463-island-perimeter) |
@@ -1133,6 +1137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0279-perfect-squares) |
 | [0310-minimum-height-trees](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0310-minimum-height-trees) |
 | [0322-coin-change](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0404-sum-of-left-leaves](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0404-sum-of-left-leaves) |
 | [0407-trapping-rain-water-ii](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0407-trapping-rain-water-ii) |
 | [0463-island-perimeter](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0463-island-perimeter) |
@@ -1394,6 +1399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0133-clone-graph](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0133-clone-graph) |
 | [0310-minimum-height-trees](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0310-minimum-height-trees) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0547-number-of-provinces](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0684-redundant-connection) |
 | [0744-network-delay-time](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0744-network-delay-time) |
@@ -1474,6 +1480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0310-minimum-height-trees](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0310-minimum-height-trees) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0820-find-eventual-safe-states](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0820-find-eventual-safe-states) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2090-number-of-ways-to-arrive-at-destination) |
@@ -1508,6 +1515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0221-maximal-square) |
 | [0304-range-sum-query-2d-immutable](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0304-range-sum-query-2d-immutable) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0407-trapping-rain-water-ii) |
 | [0463-island-perimeter](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0463-island-perimeter) |
 | [0741-cherry-pickup](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0741-cherry-pickup) |
