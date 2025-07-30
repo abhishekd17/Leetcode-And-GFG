@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0001-two-sum) |
 | [0016-3sum-closest](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0041-first-missing-positive](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0073-set-matrix-zeroes) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0041-first-missing-positive](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0073-set-matrix-zeroes) |
 | [0126-word-ladder-ii](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0127-word-ladder) |
