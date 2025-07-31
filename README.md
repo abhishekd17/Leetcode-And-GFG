@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0882-peak-index-in-a-mountain-array](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0945-snakes-and-ladders](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0945-snakes-and-ladders) |
 | [0948-sort-an-array](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0948-sort-an-array) |
 | [0952-word-subsets](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0952-word-subsets) |
@@ -862,6 +863,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0826-soup-servings](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0826-soup-servings) |
 | [0875-longest-mountain-in-array](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0875-longest-mountain-in-array) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1025-minimum-cost-for-tickets](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1063-best-sightseeing-pair) |
 | [1087-longest-arithmetic-subsequence](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1087-longest-arithmetic-subsequence) |
@@ -1255,6 +1257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0389-find-the-difference) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0461-hamming-distance](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0461-hamming-distance) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1359-circular-permutation-in-binary-representation](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1359-circular-permutation-in-binary-representation) |
 | [1435-xor-queries-of-a-subarray](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1435-xor-queries-of-a-subarray) |
