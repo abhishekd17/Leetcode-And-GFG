@@ -264,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3790-fruits-into-baskets-ii](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3790-fruits-into-baskets-ii) |
 | [3863-power-grid-maintenance](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3863-power-grid-maintenance) |
 | [3892-best-time-to-buy-and-sell-stock-v](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3892-best-time-to-buy-and-sell-stock-v) |
 ## Hash Table
@@ -668,6 +669,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3427-special-array-ii](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3427-special-array-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3643-zero-array-transformation-ii) |
 | [3715-maximum-coins-from-k-consecutive-bags](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3715-maximum-coins-from-k-consecutive-bags) |
+| [3790-fruits-into-baskets-ii](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3790-fruits-into-baskets-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -697,6 +699,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0732-my-calendar-iii](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0732-my-calendar-iii) |
 | [2280-count-good-triplets-in-an-array](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2280-count-good-triplets-in-an-array) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3790-fruits-into-baskets-ii](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3790-fruits-into-baskets-ii) |
 ## Merge Sort
 |  |
 | ------- |
@@ -715,6 +718,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2434-design-a-number-container-system](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2434-design-a-number-container-system) |
 | [2868-continuous-subarrays](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2868-continuous-subarrays) |
 | [3000-minimum-absolute-difference-between-elements-with-constraint](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3000-minimum-absolute-difference-between-elements-with-constraint) |
+| [3790-fruits-into-baskets-ii](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3790-fruits-into-baskets-ii) |
 | [3863-power-grid-maintenance](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3863-power-grid-maintenance) |
 ## Greedy
 |  |
@@ -1325,6 +1329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3634-find-mirror-score-of-a-string](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3634-find-mirror-score-of-a-string) |
+| [3790-fruits-into-baskets-ii](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3790-fruits-into-baskets-ii) |
 ## Tree
 |  |
 | ------- |
