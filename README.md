@@ -462,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0032-longest-valid-parentheses](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0044-wildcard-matching) |
@@ -858,6 +859,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0010-regular-expression-matching) |
+| [0032-longest-valid-parentheses](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0053-maximum-subarray) |
 | [0072-edit-distance](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0072-edit-distance) |
@@ -1119,6 +1121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0032-longest-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0085-maximal-rectangle) |
 | [0173-binary-search-tree-iterator](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0173-binary-search-tree-iterator) |
