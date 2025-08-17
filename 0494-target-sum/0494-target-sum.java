@@ -1,35 +1,26 @@
 class Solution {
-    public int findTargetSumWays(int[] nums, int d) {
-        int n=nums.length;
-        int sum=0;
-        for(int num : nums ){
-            sum+=num;
-        }
-        if(sum - d < 0 || (sum - d)%2==1 || sum + d < 0 ) return 0;
-        int target = (sum + d) / 2;
+    public int findTargetSumWays(int[] arr, int d) {
+        int n = arr.length;
+        int total = 0;
+        
+        for(int i = 0 ; i < n ; i++) total += arr[i];
 
-        int prev[]=new int[target + 1];
-
-        if(nums[0]==0) prev[0]=2;
-        else prev[0]=1;
-
-        if(nums[0]!=0 && nums[0] <= target) prev[nums[0]]=1;
-
-        for(int i=1;i<n;i++){
-            int curr[]=new int[target + 1];
-            for(int j=0 ; j<=target ;j++){
-                int n_p=prev[j];
-                int p=0;
-                if(j >= nums[i]){
-                    p=prev[j - nums[i]];
+        int tar = (total - d) / 2;
+        if (total < d || (total + d) % 2 != 0) return 0;
+        int dp[][] = new int[n + 1][tar + 1];
+        for(int i = 0 ; i <= n ; i++) dp[i][0] = 1;
+        for(int i = 1 ; i <= n ; i++){
+            for(int j = 0 ; j <= tar ; j++){
+                int np = dp[i - 1][j];
+                int p = 0;
+                if(j >= arr[i - 1]){
+                    p = dp[i - 1][j - arr[i - 1]];
                 }
-
-                curr[j]= n_p + p;
+                
+                dp[i][j] = p + np;
             }
-            prev = curr;
         }
-
-        return prev[target];
+        return dp[n][tar];
     }
 }
 
