@@ -10,14 +10,29 @@ class Solution {
                 list.add(nums[i]);
                 len++;
             }else{
-                int ind = Collections.binarySearch(list , nums[i]);
-                if(ind < 0){
-                    ind = -ind - 1;
-                }
+                // int ind = Collections.binarySearch(list , nums[i]);
+                int ind = lowerBound(list , nums[i]);
+                // if(ind < 0){
+                //     ind = -ind - 1;
+                // }
                 list.set(ind , nums[i]);
             }
         }
         return len;
+    }
+    private int lowerBound(List<Integer> list, int target) {
+        int l = 0 , r = list.size() - 1;
+        int ans = list.size();
+        while(l <= r){
+            int mid = l + (r - l) /2;
+            if(list.get(mid)>= target){
+                ans = mid;
+                r = mid - 1;
+            }else{
+                l = mid + 1;
+            }
+        }
+        return ans;
     }
 }
 
@@ -29,17 +44,16 @@ class Solution {
         int dp[] = new int[n];
         Arrays.fill(dp ,1);
 
+        int ans = 0;
         for(int i = 0 ; i < n ; i++){
             for(int j = 0 ; j < i ; j++){
                 if(nums[j] < nums[i]){
                     dp[i] = Math.max(dp[j] + 1 , dp[i]);
+                    ans = Math.max(ans , dp[i]);
                 }
             }
         }
-        int ans = 0;
-        for(int i = 0 ; i < n ;i++){
-            ans = Math.max(dp[i] , ans);
-        }
+
         return ans;
     }
 }
