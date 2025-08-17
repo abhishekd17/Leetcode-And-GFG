@@ -11,10 +11,11 @@ class Solution {
                 if(nums[i] > nums[j] && dp[i] < dp[j] + 1){
                     dp[i] = dp[j] + 1;
                     cnt[i] = cnt[j];
-                }else if(nums[i] >= nums[j] && dp[i] == dp[j] + 1){
+                }else if(nums[i] > nums[j] && dp[i] == dp[j] + 1){
                     cnt[i] += cnt[j];
                 }
             }
+            // System.out.print(cnt[i] + " ");
             ans = Math.max(ans , dp[i]);
         }
         int lis = 0 ;
