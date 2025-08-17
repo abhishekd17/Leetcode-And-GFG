@@ -1,4 +1,4 @@
-class Solution {
+/*class Solution {
     public int maxProfit(int[] prices) {
         int n = prices.length;
         int prev[][] = new int[2][3];
@@ -19,7 +19,7 @@ class Solution {
         return prev[0][2];
     }
 }
-
+*/
 
 
 /*class Solution {
@@ -43,7 +43,7 @@ class Solution {
 }
 */
 
-/*class Solution {
+class Solution {
     public int maxProfit(int[] prices) {
         int dp[][][] = new int[prices.length][2][3];
         for(int[][] aa : dp){
@@ -62,9 +62,9 @@ class Solution {
         
         if(buy == 1 ){
             dp[ind][buy][tran] = Math.max(helper(price , ind + 1 , 0 , tran , dp ) - price[ind] , helper(price , ind + 1 , 1 , tran ,dp));
-        }else if(buy == 0 && tran <= 4){
+        }else {
             dp[ind][buy][tran] = Math.max(helper(price , ind + 1 , 1 , tran - 1 , dp) + price[ind] , helper(price , ind + 1 , 0 , tran , dp));
         }
         return dp[ind][buy][tran];
     }
-} */
+} 
