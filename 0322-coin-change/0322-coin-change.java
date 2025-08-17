@@ -1,26 +1,32 @@
 class Solution {
     public int coinChange(int[] coins, int amount) {
         int n = coins.length;
-        int dp[][] = new int[n][amount + 1];
-        for (int[] row : dp) Arrays.fill(row, -1);
-        int ans = helper(coins, 0, amount, dp);
-        return (ans == Integer.MAX_VALUE - 1) ? -1 : ans;
-    }
+        int INF = (int)1e9;  // A large value like Integer.MAX_VALUE-1 to avoid overflow
+        
+        int[][] dp = new int[n + 1][amount + 1];
 
-    private int helper(int[] coins, int idx, int amount, int[][] dp) {
-        if (amount == 0) return 0;
-        if (idx >= coins.length) return Integer.MAX_VALUE - 1;
-
-        if (dp[idx][amount] != -1) return dp[idx][amount];
-
-        int not_pick = helper(coins, idx + 1, amount, dp);
-        int pick = Integer.MAX_VALUE - 1;
-
-        if (amount >= coins[idx]) {
-            pick = 1 + helper(coins, idx, amount - coins[idx], dp);
+        // Base Case: if amount == 0 → 0 coins needed
+        for (int i = 0; i <= n; i++) {
+            dp[i][0] = 0;
         }
 
-        dp[idx][amount] = Math.min(pick, not_pick);
-        return dp[idx][amount];
+        // If no coins available (i=0) but amount > 0 → INF (impossible)
+        for (int j = 1; j <= amount; j++) {
+            dp[0][j] = INF;
+        }
+
+        // Fill DP table
+        for (int i = 1; i <= n; i++) {
+            for (int j = 1; j <= amount; j++) {
+                int not_pick = dp[i - 1][j];  // don't use coin i-1
+                int pick = INF;
+                if (coins[i - 1] <= j) {
+                    pick = 1 + dp[i][j - coins[i - 1]]; // use same coin again
+                }
+                dp[i][j] = Math.min(pick, not_pick);
+            }
+        }
+
+        return dp[n][amount] >= INF ? -1 : dp[n][amount];
     }
 }
