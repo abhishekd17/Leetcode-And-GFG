@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0474-ones-and-zeroes) |
 | [0493-reverse-pairs](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0494-target-sum) |
+| [0498-diagonal-traverse](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0498-diagonal-traverse) |
 | [0518-coin-change-ii](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0542-01-matrix) |
@@ -1356,6 +1357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0067-add-binary) |
+| [0498-diagonal-traverse](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0498-diagonal-traverse) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2048-build-array-from-permutation) |
@@ -1586,6 +1588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0407-trapping-rain-water-ii) |
 | [0463-island-perimeter](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0463-island-perimeter) |
+| [0498-diagonal-traverse](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0498-diagonal-traverse) |
 | [0542-01-matrix](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0542-01-matrix) |
 | [0741-cherry-pickup](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0741-cherry-pickup) |
 | [0787-sliding-puzzle](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0787-sliding-puzzle) |
