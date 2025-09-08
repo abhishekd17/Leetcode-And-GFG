@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0053-maximum-subarray) |
+| [0059-spiral-matrix-ii](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0073-set-matrix-zeroes) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0084-largest-rectangle-in-histogram) |
@@ -1375,6 +1376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0043-multiply-strings) |
+| [0059-spiral-matrix-ii](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0067-add-binary) |
 | [0498-diagonal-traverse](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0498-diagonal-traverse) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1667-find-kth-bit-in-nth-binary-string) |
@@ -1600,6 +1602,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0037-sudoku-solver) |
+| [0059-spiral-matrix-ii](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0130-surrounded-regions) |
