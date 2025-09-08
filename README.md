@@ -425,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1359-circular-permutation-in-binary-representation](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1359-circular-permutation-in-binary-representation) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1477-product-of-the-last-k-numbers](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1477-product-of-the-last-k-numbers) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
