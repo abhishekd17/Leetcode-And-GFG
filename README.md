@@ -285,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3791-fruits-into-baskets-iii) |
+| [3827-implement-router](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3827-implement-router) |
 | [3863-power-grid-maintenance](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3863-power-grid-maintenance) |
 | [3892-best-time-to-buy-and-sell-stock-v](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3892-best-time-to-buy-and-sell-stock-v) |
 ## Hash Table
@@ -394,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3827-implement-router](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3827-implement-router) |
 | [3863-power-grid-maintenance](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3863-power-grid-maintenance) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Linked List
@@ -718,6 +720,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3715-maximum-coins-from-k-consecutive-bags](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3715-maximum-coins-from-k-consecutive-bags) |
 | [3790-fruits-into-baskets-ii](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3791-fruits-into-baskets-iii) |
+| [3827-implement-router](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3827-implement-router) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -773,6 +776,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3000-minimum-absolute-difference-between-elements-with-constraint](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3000-minimum-absolute-difference-between-elements-with-constraint) |
 | [3790-fruits-into-baskets-ii](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3791-fruits-into-baskets-iii) |
+| [3827-implement-router](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3827-implement-router) |
 | [3863-power-grid-maintenance](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3863-power-grid-maintenance) |
 ## Greedy
 |  |
@@ -1299,6 +1303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2434-design-a-number-container-system](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2434-design-a-number-container-system) |
 | [2678-design-graph-with-shortest-path-calculator](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2678-design-graph-with-shortest-path-calculator) |
+| [3827-implement-router](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3827-implement-router) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -1345,6 +1350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2408-number-of-people-aware-of-a-secret](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2868-continuous-subarrays](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2868-continuous-subarrays) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3827-implement-router](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3827-implement-router) |
 ## Bit Manipulation
 |  |
 | ------- |
