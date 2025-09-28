@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-word-subsets](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0952-word-subsets) |
 | [0986-largest-time-for-given-digits](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0986-largest-time-for-given-digits) |
 | [1002-maximum-width-ramp](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1002-maximum-width-ramp) |
+| [1018-largest-perimeter-triangle](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1018-largest-perimeter-triangle) |
 | [1025-minimum-cost-for-tickets](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1025-minimum-cost-for-tickets) |
 | [1036-rotting-oranges](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1036-rotting-oranges) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
@@ -437,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0830-largest-triangle-area](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0830-largest-triangle-area) |
 | [0867-new-21-game](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0900-reordered-power-of-2) |
+| [1018-largest-perimeter-triangle](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1018-largest-perimeter-triangle) |
 | [1359-circular-permutation-in-binary-representation](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1359-circular-permutation-in-binary-representation) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -805,6 +807,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-max-chunks-to-make-sorted](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0780-max-chunks-to-make-sorted) |
 | [0797-rabbits-in-forest](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0797-rabbits-in-forest) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1018-largest-perimeter-triangle](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1018-largest-perimeter-triangle) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1304-longest-happy-string](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1304-longest-happy-string) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -867,6 +870,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-max-chunks-to-make-sorted](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0780-max-chunks-to-make-sorted) |
 | [0900-reordered-power-of-2](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0900-reordered-power-of-2) |
 | [0948-sort-an-array](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0948-sort-an-array) |
+| [1018-largest-perimeter-triangle](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1018-largest-perimeter-triangle) |
 | [1129-longest-string-chain](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1129-longest-string-chain) |
 | [1256-rank-transform-of-an-array](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1256-rank-transform-of-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1468-check-if-n-and-its-double-exist) |
