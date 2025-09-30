@@ -533,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0686-repeated-string-match](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0686-repeated-string-match) |
 | [0721-accounts-merge](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0721-accounts-merge) |
 | [0768-partition-labels](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0768-partition-labels) |
+| [0793-swap-adjacent-in-lr-string](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0793-swap-adjacent-in-lr-string) |
 | [0812-rotate-string](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0952-word-subsets](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0952-word-subsets) |
@@ -1054,6 +1055,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0567-permutation-in-string) |
 | [0611-valid-triangle-number](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0611-valid-triangle-number) |
 | [0768-partition-labels](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0768-partition-labels) |
+| [0793-swap-adjacent-in-lr-string](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0793-swap-adjacent-in-lr-string) |
 | [0875-longest-mountain-in-array](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0875-longest-mountain-in-array) |
 | [1129-longest-string-chain](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1129-longest-string-chain) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1468-check-if-n-and-its-double-exist) |
