@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2626-count-the-number-of-good-subarrays](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2665-minimum-time-to-repair-cars](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2665-minimum-time-to-repair-cars) |
 | [2681-put-marbles-in-bags](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2681-put-marbles-in-bags) |
 | [2685-first-completely-painted-row-or-column](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2685-first-completely-painted-row-or-column) |
@@ -379,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2685-first-completely-painted-row-or-column](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2685-first-completely-painted-row-or-column) |
 | [2689-rearranging-fruits](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2689-rearranging-fruits) |
@@ -464,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2432-number-of-zero-filled-subarrays](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2448-count-number-of-bad-pairs) |
 | [2649-count-total-number-of-colored-cells](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2649-count-total-number-of-colored-cells) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2716-prime-subtraction-operation](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2716-prime-subtraction-operation) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2802-find-the-punishment-number-of-an-integer) |
@@ -848,6 +851,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2616-maximal-score-after-applying-k-operations](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2681-put-marbles-in-bags](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2681-put-marbles-in-bags) |
 | [2689-rearranging-fruits](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2689-rearranging-fruits) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2704-maximum-difference-by-remapping-a-digit) |
