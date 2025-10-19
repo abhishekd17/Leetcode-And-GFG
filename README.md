@@ -571,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1871-palindrome-partitioning-iv](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1871-palindrome-partitioning-iv) |
@@ -1172,6 +1173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2121-find-if-path-exists-in-graph](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2121-find-if-path-exists-in-graph) |
 | [2175-count-nodes-with-the-highest-score](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2175-count-nodes-with-the-highest-score) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
@@ -1195,6 +1197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0900-reordered-power-of-2) |
 | [0986-largest-time-for-given-digits](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0986-largest-time-for-given-digits) |
 | [1656-count-good-triplets](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1656-count-good-triplets) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -1307,6 +1310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1442-number-of-operations-to-make-network-connected](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1876-map-of-highest-peak](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1876-map-of-highest-peak) |
 | [2121-find-if-path-exists-in-graph](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2121-find-if-path-exists-in-graph) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
