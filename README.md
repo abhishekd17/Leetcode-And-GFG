@@ -369,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
@@ -600,6 +601,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1923-sentence-similarity-iii](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1923-sentence-similarity-iii) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2079-delete-duplicate-folders-in-system) |
@@ -1410,6 +1412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1694-make-sum-divisible-by-p](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1694-make-sum-divisible-by-p) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1940-maximum-xor-for-each-query](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1940-maximum-xor-for-each-query) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2145-grid-game](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2145-grid-game) |
@@ -1459,6 +1462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1826-maximum-xor-with-an-element-from-array) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1940-maximum-xor-for-each-query](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1940-maximum-xor-for-each-query) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2059-unique-length-3-palindromic-subsequences) |
