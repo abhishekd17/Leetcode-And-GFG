@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0986-largest-time-for-given-digits](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0986-largest-time-for-given-digits) |
 | [1002-maximum-width-ramp](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1002-maximum-width-ramp) |
 | [1018-largest-perimeter-triangle](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1018-largest-perimeter-triangle) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1025-minimum-cost-for-tickets](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1025-minimum-cost-for-tickets) |
 | [1036-rotting-oranges](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1036-rotting-oranges) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
@@ -1457,6 +1458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0461-hamming-distance](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0461-hamming-distance) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0934-bitwise-ors-of-subarrays) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1359-circular-permutation-in-binary-representation](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1359-circular-permutation-in-binary-representation) |
 | [1435-xor-queries-of-a-subarray](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1435-xor-queries-of-a-subarray) |
