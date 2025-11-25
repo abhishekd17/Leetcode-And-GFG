@@ -352,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0952-word-subsets) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1087-longest-arithmetic-subsequence](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1087-longest-arithmetic-subsequence) |
 | [1129-longest-string-chain](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1129-longest-string-chain) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
@@ -466,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0830-largest-triangle-area](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0830-largest-triangle-area) |
 | [0867-new-21-game](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0900-reordered-power-of-2) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1018-largest-perimeter-triangle) |
 | [1359-circular-permutation-in-binary-representation](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1359-circular-permutation-in-binary-representation) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
