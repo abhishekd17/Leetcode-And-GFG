@@ -294,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3541-report-spam-message](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3541-report-spam-message) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3593-find-the-maximum-factor-score-of-array](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3593-find-the-maximum-factor-score-of-array) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
@@ -712,6 +713,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-alternating-groups-ii](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3483-alternating-groups-ii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3702-maximum-subarray-with-equal-products) |
 | [3715-maximum-coins-from-k-consecutive-bags](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3715-maximum-coins-from-k-consecutive-bags) |
@@ -1088,6 +1090,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3618-find-the-original-typed-string-ii](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3618-find-the-original-typed-string-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3630-total-characters-in-string-after-transformations-ii) |
@@ -1452,6 +1455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3427-special-array-ii](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3427-special-array-ii) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3618-find-the-original-typed-string-ii](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3618-find-the-original-typed-string-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3643-zero-array-transformation-ii](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3643-zero-array-transformation-ii) |
@@ -1468,6 +1472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2618-maximize-the-minimum-powered-city](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2868-continuous-subarrays](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2868-continuous-subarrays) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3827-implement-router](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3827-implement-router) |
 ## Bit Manipulation
 |  |
@@ -1818,6 +1823,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [2868-continuous-subarrays](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2868-continuous-subarrays) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Biconnected Component
 |  |
 | ------- |
