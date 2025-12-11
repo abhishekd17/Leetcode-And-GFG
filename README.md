@@ -292,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
+| [3531-count-covered-buildings](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3531-count-covered-buildings) |
 | [3541-report-spam-message](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3541-report-spam-message) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
@@ -424,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3531-count-covered-buildings](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3531-count-covered-buildings) |
 | [3541-report-spam-message](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3541-report-spam-message) |
 | [3548-find-the-count-of-good-integers](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3548-find-the-count-of-good-integers) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
@@ -992,6 +994,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3430-count-days-without-meetings](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3430-count-days-without-meetings) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3531-count-covered-buildings](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3531-count-covered-buildings) |
 | [3595-rearrange-k-substrings-to-form-target-string](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3595-rearrange-k-substrings-to-form-target-string) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
