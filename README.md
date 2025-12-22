@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0948-sort-an-array) |
 | [0952-word-subsets](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0952-word-subsets) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0955-delete-columns-to-make-sorted-ii) |
+| [0960-delete-columns-to-make-sorted-iii](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [0986-largest-time-for-given-digits](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0986-largest-time-for-given-digits) |
 | [1002-maximum-width-ramp](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1002-maximum-width-ramp) |
 | [1018-largest-perimeter-triangle](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1018-largest-perimeter-triangle) |
@@ -598,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-word-subsets](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0952-word-subsets) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [0960-delete-columns-to-make-sorted-iii](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [0986-largest-time-for-given-digits](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0986-largest-time-for-given-digits) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -1059,6 +1061,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-longest-mountain-in-array](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0875-longest-mountain-in-array) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0934-bitwise-ors-of-subarrays) |
+| [0960-delete-columns-to-make-sorted-iii](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1025-minimum-cost-for-tickets](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1063-best-sightseeing-pair) |
 | [1087-longest-arithmetic-subsequence](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1087-longest-arithmetic-subsequence) |
