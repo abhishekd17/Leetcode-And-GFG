@@ -360,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0594-longest-harmonious-subsequence) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0721-accounts-merge](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0721-accounts-merge) |
+| [0756-pyramid-transition-matrix](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0756-pyramid-transition-matrix) |
 | [0768-partition-labels](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0797-rabbits-in-forest) |
 | [0833-bus-routes](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0833-bus-routes) |
@@ -596,6 +597,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0583-delete-operation-for-two-strings) |
 | [0686-repeated-string-match](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0686-repeated-string-match) |
 | [0721-accounts-merge](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0721-accounts-merge) |
+| [0756-pyramid-transition-matrix](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0756-pyramid-transition-matrix) |
 | [0768-partition-labels](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0768-partition-labels) |
 | [0793-swap-adjacent-in-lr-string](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0793-swap-adjacent-in-lr-string) |
 | [0812-rotate-string](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0812-rotate-string) |
@@ -1522,6 +1524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0389-find-the-difference) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0461-hamming-distance](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0461-hamming-distance) |
+| [0756-pyramid-transition-matrix](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0756-pyramid-transition-matrix) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
@@ -1851,6 +1854,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0113-path-sum-ii) |
 | [0126-word-ladder-ii](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0126-word-ladder-ii) |
 | [0494-target-sum](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0494-target-sum) |
+| [0756-pyramid-transition-matrix](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0756-pyramid-transition-matrix) |
 | [1359-circular-permutation-in-binary-representation](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1359-circular-permutation-in-binary-representation) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
