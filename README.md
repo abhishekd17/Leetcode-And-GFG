@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0797-rabbits-in-forest) |
 | [0830-largest-triangle-area](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0830-largest-triangle-area) |
 | [0833-bus-routes](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0833-bus-routes) |
+| [0840-magic-squares-in-grid](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0840-magic-squares-in-grid) |
 | [0854-making-a-large-island](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0854-making-a-large-island) |
 | [0859-design-circular-deque](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0859-design-circular-deque) |
 | [0875-longest-mountain-in-array](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0875-longest-mountain-in-array) |
@@ -364,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0797-rabbits-in-forest) |
 | [0833-bus-routes](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0833-bus-routes) |
+| [0840-magic-squares-in-grid](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0840-magic-squares-in-grid) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0900-reordered-power-of-2](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0900-reordered-power-of-2) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -487,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0826-soup-servings) |
 | [0830-largest-triangle-area](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0830-largest-triangle-area) |
+| [0840-magic-squares-in-grid](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0840-magic-squares-in-grid) |
 | [0867-new-21-game](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0900-reordered-power-of-2) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -1820,6 +1823,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0741-cherry-pickup](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0741-cherry-pickup) |
 | [0787-sliding-puzzle](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0787-sliding-puzzle) |
 | [0794-swim-in-rising-water](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0794-swim-in-rising-water) |
+| [0840-magic-squares-in-grid](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0840-magic-squares-in-grid) |
 | [0854-making-a-large-island](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0854-making-a-large-island) |
 | [0945-snakes-and-ladders](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1036-rotting-oranges) |
