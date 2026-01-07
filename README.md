@@ -1278,6 +1278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-delete-nodes-and-return-forest](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1207-delete-nodes-and-return-forest) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1300-critical-connections-in-a-network](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1300-critical-connections-in-a-network) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
@@ -1636,6 +1637,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1207-delete-nodes-and-return-forest) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2175-count-nodes-with-the-highest-score](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2175-count-nodes-with-the-highest-score) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -1684,6 +1686,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1207-delete-nodes-and-return-forest) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2175-count-nodes-with-the-highest-score](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2175-count-nodes-with-the-highest-score) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2306-create-binary-tree-from-descriptions) |
