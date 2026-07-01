@@ -263,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2792-neighboring-bitwise-xor) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2845-find-the-value-of-the-partition](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2845-find-the-value-of-the-partition) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2868-continuous-subarrays](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2868-continuous-subarrays) |
@@ -832,6 +833,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2699-count-the-number-of-fair-pairs](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2716-prime-subtraction-operation) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3000-minimum-absolute-difference-between-elements-with-constraint](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3000-minimum-absolute-difference-between-elements-with-constraint) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
@@ -1457,6 +1459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2793-count-the-number-of-complete-components) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
@@ -1783,6 +1786,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2692-take-gifts-from-the-richest-pile](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2868-continuous-subarrays](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2868-continuous-subarrays) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -1880,6 +1884,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
@@ -1977,4 +1982,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0830-largest-triangle-area](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0830-largest-triangle-area) |
 | [1266-minimum-time-visiting-all-points](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1266-minimum-time-visiting-all-points) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3625-count-number-of-trapezoids-ii) |
+## Union-Find
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2812-find-the-safest-path-in-a-grid) |
 <!---LeetCode Topics End-->
