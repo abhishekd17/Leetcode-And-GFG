@@ -558,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3702-maximum-subarray-with-equal-products](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3702-maximum-subarray-with-equal-products) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -712,6 +713,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3805-maximize-active-section-with-trade-i](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3805-maximize-active-section-with-trade-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -1536,6 +1538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3647-zero-array-transformation-iii](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3647-zero-array-transformation-iii) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3715-maximum-coins-from-k-consecutive-bags](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3715-maximum-coins-from-k-consecutive-bags) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Queue
 |  |
