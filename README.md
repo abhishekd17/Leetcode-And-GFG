@@ -311,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3531-count-covered-buildings](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3531-count-covered-buildings) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3541-report-spam-message](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3541-report-spam-message) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
@@ -449,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3455-minimum-length-of-string-after-operations](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3531-count-covered-buildings](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3531-count-covered-buildings) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3541-report-spam-message](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3541-report-spam-message) |
 | [3548-find-the-count-of-good-integers](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3548-find-the-count-of-good-integers) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
@@ -843,6 +845,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3427-special-array-ii](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3427-special-array-ii) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3643-zero-array-transformation-ii](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3643-zero-array-transformation-ii) |
 | [3715-maximum-coins-from-k-consecutive-bags](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3715-maximum-coins-from-k-consecutive-bags) |
@@ -1991,4 +1994,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3532-path-existence-queries-in-a-graph-i) |
+## Graph Theory
+|  |
+| ------- |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3532-path-existence-queries-in-a-graph-i) |
 <!---LeetCode Topics End-->
