@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0611-valid-triangle-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0628-maximum-product-of-three-numbers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0674-longest-continuous-increasing-subsequence) |
@@ -499,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0279-perfect-squares) |
 | [0326-power-of-three](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0326-power-of-three) |
 | [0368-largest-divisible-subset](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0368-largest-divisible-subset) |
+| [0628-maximum-product-of-three-numbers](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0628-maximum-product-of-three-numbers) |
 | [0650-2-keys-keyboard](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0650-2-keys-keyboard) |
 | [0670-maximum-swap](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0670-maximum-swap) |
 | [0797-rabbits-in-forest](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0797-rabbits-in-forest) |
@@ -1004,6 +1006,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0611-valid-triangle-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0628-maximum-product-of-three-numbers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0721-accounts-merge](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0721-accounts-merge) |
 | [0780-max-chunks-to-make-sorted](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0780-max-chunks-to-make-sorted) |
