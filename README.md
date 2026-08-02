@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0854-making-a-large-island](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0854-making-a-large-island) |
 | [0859-design-circular-deque](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0859-design-circular-deque) |
 | [0875-longest-mountain-in-array](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0875-longest-mountain-in-array) |
+| [0877-stone-game](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0877-stone-game) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -509,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0830-largest-triangle-area](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0830-largest-triangle-area) |
 | [0840-magic-squares-in-grid](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0840-magic-squares-in-grid) |
 | [0867-new-21-game](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0867-new-21-game) |
+| [0877-stone-game](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0877-stone-game) |
 | [0900-reordered-power-of-2](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0900-reordered-power-of-2) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1018-largest-perimeter-triangle) |
@@ -1120,6 +1122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0826-soup-servings](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0867-new-21-game) |
 | [0875-longest-mountain-in-array](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0875-longest-mountain-in-array) |
+| [0877-stone-game](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0877-stone-game) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0960-delete-columns-to-make-sorted-iii) |
@@ -2005,6 +2008,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0877-stone-game) |
 | [3462-vowels-game-in-a-string](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3462-vowels-game-in-a-string) |
 ## Line Sweep
 |  |
