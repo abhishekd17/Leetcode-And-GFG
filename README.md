@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1364-tuple-with-same-product](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1364-tuple-with-same-product) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1406-stone-game-iii](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1406-stone-game-iii) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -516,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1018-largest-perimeter-triangle) |
 | [1266-minimum-time-visiting-all-points](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1266-minimum-time-visiting-all-points) |
 | [1359-circular-permutation-in-binary-representation](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1359-circular-permutation-in-binary-representation) |
+| [1406-stone-game-iii](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1406-stone-game-iii) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
@@ -1138,6 +1140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1263-number-of-dice-rolls-with-target-sum](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1263-number-of-dice-rolls-with-target-sum) |
 | [1343-dice-roll-simulation](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1343-dice-roll-simulation) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1406-stone-game-iii](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1406-stone-game-iii) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -2009,6 +2012,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1406-stone-game-iii) |
 | [3462-vowels-game-in-a-string](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3462-vowels-game-in-a-string) |
 ## Line Sweep
 |  |
@@ -2032,4 +2036,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2685-count-the-number-of-complete-components](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/abhishekd17/Leetcode-And-GFG/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
